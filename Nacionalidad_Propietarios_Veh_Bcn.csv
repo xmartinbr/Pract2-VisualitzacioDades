@@ -1,0 +1,876 @@
+Any,Codi_districte,Nom_districte,Codi_barri,Nom_barri,Tipus_Vehicles,Nacionalitat_propietari,Nombre
+2020,1,Ciutat Vella,1,el Raval,Turismes,Nacionalitat espanyola,4336
+2020,1,Ciutat Vella,1,el Raval,Turismes,Altres nacionalitats,1466
+2020,1,Ciutat Vella,1,el Raval,Motos,Nacionalitat espanyola,2244
+2020,1,Ciutat Vella,1,el Raval,Motos,Altres nacionalitats,866
+2020,1,Ciutat Vella,1,el Raval,Ciclomotors,Nacionalitat espanyola,1566
+2020,1,Ciutat Vella,1,el Raval,Ciclomotors,Altres nacionalitats,369
+2020,1,Ciutat Vella,1,el Raval,Furgonetes,Nacionalitat espanyola,566
+2020,1,Ciutat Vella,1,el Raval,Furgonetes,Altres nacionalitats,287
+2020,1,Ciutat Vella,1,el Raval,Camions,Nacionalitat espanyola,238
+2020,1,Ciutat Vella,1,el Raval,Camions,Altres nacionalitats,85
+2020,1,Ciutat Vella,1,el Raval,Altres vehicles,Nacionalitat espanyola,186
+2020,1,Ciutat Vella,1,el Raval,Altres vehicles,Altres nacionalitats,15
+2020,1,Ciutat Vella,2,el Barri Gòtic,Turismes,Nacionalitat espanyola,4286
+2020,1,Ciutat Vella,2,el Barri Gòtic,Turismes,Altres nacionalitats,603
+2020,1,Ciutat Vella,2,el Barri Gòtic,Motos,Nacionalitat espanyola,3300
+2020,1,Ciutat Vella,2,el Barri Gòtic,Motos,Altres nacionalitats,433
+2020,1,Ciutat Vella,2,el Barri Gòtic,Ciclomotors,Nacionalitat espanyola,398
+2020,1,Ciutat Vella,2,el Barri Gòtic,Ciclomotors,Altres nacionalitats,102
+2020,1,Ciutat Vella,2,el Barri Gòtic,Furgonetes,Nacionalitat espanyola,1472
+2020,1,Ciutat Vella,2,el Barri Gòtic,Furgonetes,Altres nacionalitats,74
+2020,1,Ciutat Vella,2,el Barri Gòtic,Camions,Nacionalitat espanyola,876
+2020,1,Ciutat Vella,2,el Barri Gòtic,Camions,Altres nacionalitats,15
+2020,1,Ciutat Vella,2,el Barri Gòtic,Altres vehicles,Nacionalitat espanyola,357
+2020,1,Ciutat Vella,2,el Barri Gòtic,Altres vehicles,Altres nacionalitats,11
+2020,1,Ciutat Vella,3,la Barceloneta,Turismes,Nacionalitat espanyola,2539
+2020,1,Ciutat Vella,3,la Barceloneta,Turismes,Altres nacionalitats,565
+2020,1,Ciutat Vella,3,la Barceloneta,Motos,Nacionalitat espanyola,1421
+2020,1,Ciutat Vella,3,la Barceloneta,Motos,Altres nacionalitats,425
+2020,1,Ciutat Vella,3,la Barceloneta,Ciclomotors,Nacionalitat espanyola,397
+2020,1,Ciutat Vella,3,la Barceloneta,Ciclomotors,Altres nacionalitats,88
+2020,1,Ciutat Vella,3,la Barceloneta,Furgonetes,Nacionalitat espanyola,367
+2020,1,Ciutat Vella,3,la Barceloneta,Furgonetes,Altres nacionalitats,71
+2020,1,Ciutat Vella,3,la Barceloneta,Camions,Nacionalitat espanyola,85
+2020,1,Ciutat Vella,3,la Barceloneta,Camions,Altres nacionalitats,8
+2020,1,Ciutat Vella,3,la Barceloneta,Altres vehicles,Nacionalitat espanyola,86
+2020,1,Ciutat Vella,3,la Barceloneta,Altres vehicles,Altres nacionalitats,8
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Turismes,Nacionalitat espanyola,3071
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Turismes,Altres nacionalitats,813
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Motos,Nacionalitat espanyola,1983
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Motos,Altres nacionalitats,656
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Ciclomotors,Nacionalitat espanyola,4835
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Ciclomotors,Altres nacionalitats,151
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Furgonetes,Nacionalitat espanyola,439
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Furgonetes,Altres nacionalitats,120
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Camions,Nacionalitat espanyola,95
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Camions,Altres nacionalitats,27
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Altres vehicles,Nacionalitat espanyola,114
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Altres vehicles,Altres nacionalitats,16
+2020,2,Eixample,5,el Fort Pienc,Turismes,Nacionalitat espanyola,7986
+2020,2,Eixample,5,el Fort Pienc,Turismes,Altres nacionalitats,812
+2020,2,Eixample,5,el Fort Pienc,Motos,Nacionalitat espanyola,3501
+2020,2,Eixample,5,el Fort Pienc,Motos,Altres nacionalitats,543
+2020,2,Eixample,5,el Fort Pienc,Ciclomotors,Nacionalitat espanyola,670
+2020,2,Eixample,5,el Fort Pienc,Ciclomotors,Altres nacionalitats,104
+2020,2,Eixample,5,el Fort Pienc,Furgonetes,Nacionalitat espanyola,594
+2020,2,Eixample,5,el Fort Pienc,Furgonetes,Altres nacionalitats,101
+2020,2,Eixample,5,el Fort Pienc,Camions,Nacionalitat espanyola,217
+2020,2,Eixample,5,el Fort Pienc,Camions,Altres nacionalitats,18
+2020,2,Eixample,5,el Fort Pienc,Altres vehicles,Nacionalitat espanyola,352
+2020,2,Eixample,5,el Fort Pienc,Altres vehicles,Altres nacionalitats,10
+2020,2,Eixample,6,la Sagrada Família,Turismes,Nacionalitat espanyola,12477
+2020,2,Eixample,6,la Sagrada Família,Turismes,Altres nacionalitats,1014
+2020,2,Eixample,6,la Sagrada Família,Motos,Nacionalitat espanyola,5774
+2020,2,Eixample,6,la Sagrada Família,Motos,Altres nacionalitats,777
+2020,2,Eixample,6,la Sagrada Família,Ciclomotors,Nacionalitat espanyola,1057
+2020,2,Eixample,6,la Sagrada Família,Ciclomotors,Altres nacionalitats,176
+2020,2,Eixample,6,la Sagrada Família,Furgonetes,Nacionalitat espanyola,869
+2020,2,Eixample,6,la Sagrada Família,Furgonetes,Altres nacionalitats,137
+2020,2,Eixample,6,la Sagrada Família,Camions,Nacionalitat espanyola,321
+2020,2,Eixample,6,la Sagrada Família,Camions,Altres nacionalitats,35
+2020,2,Eixample,6,la Sagrada Família,Altres vehicles,Nacionalitat espanyola,444
+2020,2,Eixample,6,la Sagrada Família,Altres vehicles,Altres nacionalitats,5
+2020,2,Eixample,7,la Dreta de l'Eixample,Turismes,Nacionalitat espanyola,15167
+2020,2,Eixample,7,la Dreta de l'Eixample,Turismes,Altres nacionalitats,1228
+2020,2,Eixample,7,la Dreta de l'Eixample,Motos,Nacionalitat espanyola,7337
+2020,2,Eixample,7,la Dreta de l'Eixample,Motos,Altres nacionalitats,898
+2020,2,Eixample,7,la Dreta de l'Eixample,Ciclomotors,Nacionalitat espanyola,1715
+2020,2,Eixample,7,la Dreta de l'Eixample,Ciclomotors,Altres nacionalitats,147
+2020,2,Eixample,7,la Dreta de l'Eixample,Furgonetes,Nacionalitat espanyola,1695
+2020,2,Eixample,7,la Dreta de l'Eixample,Furgonetes,Altres nacionalitats,70
+2020,2,Eixample,7,la Dreta de l'Eixample,Camions,Nacionalitat espanyola,1038
+2020,2,Eixample,7,la Dreta de l'Eixample,Camions,Altres nacionalitats,26
+2020,2,Eixample,7,la Dreta de l'Eixample,Altres vehicles,Nacionalitat espanyola,1562
+2020,2,Eixample,7,la Dreta de l'Eixample,Altres vehicles,Altres nacionalitats,10
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Turismes,Nacionalitat espanyola,11464
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Turismes,Altres nacionalitats,953
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Motos,Nacionalitat espanyola,6530
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Motos,Altres nacionalitats,824
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Ciclomotors,Nacionalitat espanyola,1567
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Ciclomotors,Altres nacionalitats,141
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Furgonetes,Nacionalitat espanyola,968
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Furgonetes,Altres nacionalitats,61
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Camions,Nacionalitat espanyola,384
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Camions,Altres nacionalitats,14
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Altres vehicles,Nacionalitat espanyola,293
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Altres vehicles,Altres nacionalitats,9
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Turismes,Nacionalitat espanyola,16129
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Turismes,Altres nacionalitats,1205
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Motos,Nacionalitat espanyola,7500
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Motos,Altres nacionalitats,893
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Ciclomotors,Nacionalitat espanyola,1260
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Ciclomotors,Altres nacionalitats,164
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Furgonetes,Nacionalitat espanyola,1056
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Furgonetes,Altres nacionalitats,97
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Camions,Nacionalitat espanyola,300
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Camions,Altres nacionalitats,24
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Altres vehicles,Nacionalitat espanyola,922
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Altres vehicles,Altres nacionalitats,7
+2020,2,Eixample,10,Sant Antoni,Turismes,Nacionalitat espanyola,8729
+2020,2,Eixample,10,Sant Antoni,Turismes,Altres nacionalitats,748
+2020,2,Eixample,10,Sant Antoni,Motos,Nacionalitat espanyola,4134
+2020,2,Eixample,10,Sant Antoni,Motos,Altres nacionalitats,581
+2020,2,Eixample,10,Sant Antoni,Ciclomotors,Nacionalitat espanyola,758
+2020,2,Eixample,10,Sant Antoni,Ciclomotors,Altres nacionalitats,109
+2020,2,Eixample,10,Sant Antoni,Furgonetes,Nacionalitat espanyola,660
+2020,2,Eixample,10,Sant Antoni,Furgonetes,Altres nacionalitats,100
+2020,2,Eixample,10,Sant Antoni,Camions,Nacionalitat espanyola,230
+2020,2,Eixample,10,Sant Antoni,Camions,Altres nacionalitats,14
+2020,2,Eixample,10,Sant Antoni,Altres vehicles,Nacionalitat espanyola,273
+2020,2,Eixample,10,Sant Antoni,Altres vehicles,Altres nacionalitats,13
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Turismes,Nacionalitat espanyola,6956
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Turismes,Altres nacionalitats,1277
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Motos,Nacionalitat espanyola,3292
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Motos,Altres nacionalitats,737
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Ciclomotors,Nacionalitat espanyola,869
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Ciclomotors,Altres nacionalitats,216
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Furgonetes,Nacionalitat espanyola,740
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Furgonetes,Altres nacionalitats,206
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Camions,Nacionalitat espanyola,166
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Camions,Altres nacionalitats,43
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Altres vehicles,Nacionalitat espanyola,198
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Altres vehicles,Altres nacionalitats,22
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Turismes,Nacionalitat espanyola,2949
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Turismes,Altres nacionalitats,40
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Motos,Nacionalitat espanyola,325
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Motos,Altres nacionalitats,8
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Ciclomotors,Nacionalitat espanyola,648
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Ciclomotors,Altres nacionalitats,4
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Furgonetes,Nacionalitat espanyola,866
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Furgonetes,Altres nacionalitats,7
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Camions,Nacionalitat espanyola,2058
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Camions,Altres nacionalitats,1
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Altres vehicles,Nacionalitat espanyola,3500
+2020,3,Sants-Montjuïc,13,la Marina de Port,Turismes,Nacionalitat espanyola,8194
+2020,3,Sants-Montjuïc,13,la Marina de Port,Turismes,Altres nacionalitats,717
+2020,3,Sants-Montjuïc,13,la Marina de Port,Motos,Nacionalitat espanyola,3236
+2020,3,Sants-Montjuïc,13,la Marina de Port,Motos,Altres nacionalitats,286
+2020,3,Sants-Montjuïc,13,la Marina de Port,Ciclomotors,Nacionalitat espanyola,702
+2020,3,Sants-Montjuïc,13,la Marina de Port,Ciclomotors,Altres nacionalitats,90
+2020,3,Sants-Montjuïc,13,la Marina de Port,Furgonetes,Nacionalitat espanyola,490
+2020,3,Sants-Montjuïc,13,la Marina de Port,Furgonetes,Altres nacionalitats,78
+2020,3,Sants-Montjuïc,13,la Marina de Port,Camions,Nacionalitat espanyola,305
+2020,3,Sants-Montjuïc,13,la Marina de Port,Camions,Altres nacionalitats,34
+2020,3,Sants-Montjuïc,13,la Marina de Port,Altres vehicles,Nacionalitat espanyola,228
+2020,3,Sants-Montjuïc,13,la Marina de Port,Altres vehicles,Altres nacionalitats,1
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Turismes,Nacionalitat espanyola,2672
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Turismes,Altres nacionalitats,280
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Motos,Nacionalitat espanyola,1223
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Motos,Altres nacionalitats,164
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Ciclomotors,Nacionalitat espanyola,258
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Ciclomotors,Altres nacionalitats,33
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Furgonetes,Nacionalitat espanyola,177
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Furgonetes,Altres nacionalitats,24
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Camions,Nacionalitat espanyola,46
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Camions,Altres nacionalitats,4
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Altres vehicles,Nacionalitat espanyola,74
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Altres vehicles,Altres nacionalitats,4
+2020,3,Sants-Montjuïc,15,Hostafrancs,Turismes,Nacionalitat espanyola,3623
+2020,3,Sants-Montjuïc,15,Hostafrancs,Turismes,Altres nacionalitats,418
+2020,3,Sants-Montjuïc,15,Hostafrancs,Motos,Nacionalitat espanyola,1471
+2020,3,Sants-Montjuïc,15,Hostafrancs,Motos,Altres nacionalitats,213
+2020,3,Sants-Montjuïc,15,Hostafrancs,Ciclomotors,Nacionalitat espanyola,310
+2020,3,Sants-Montjuïc,15,Hostafrancs,Ciclomotors,Altres nacionalitats,75
+2020,3,Sants-Montjuïc,15,Hostafrancs,Furgonetes,Nacionalitat espanyola,367
+2020,3,Sants-Montjuïc,15,Hostafrancs,Furgonetes,Altres nacionalitats,54
+2020,3,Sants-Montjuïc,15,Hostafrancs,Camions,Nacionalitat espanyola,121
+2020,3,Sants-Montjuïc,15,Hostafrancs,Camions,Altres nacionalitats,12
+2020,3,Sants-Montjuïc,15,Hostafrancs,Altres vehicles,Nacionalitat espanyola,118
+2020,3,Sants-Montjuïc,15,Hostafrancs,Altres vehicles,Altres nacionalitats,1
+2020,3,Sants-Montjuïc,16,la Bordeta,Turismes,Nacionalitat espanyola,5057
+2020,3,Sants-Montjuïc,16,la Bordeta,Turismes,Altres nacionalitats,353
+2020,3,Sants-Montjuïc,16,la Bordeta,Motos,Nacionalitat espanyola,1997
+2020,3,Sants-Montjuïc,16,la Bordeta,Motos,Altres nacionalitats,193
+2020,3,Sants-Montjuïc,16,la Bordeta,Ciclomotors,Nacionalitat espanyola,384
+2020,3,Sants-Montjuïc,16,la Bordeta,Ciclomotors,Altres nacionalitats,40
+2020,3,Sants-Montjuïc,16,la Bordeta,Furgonetes,Nacionalitat espanyola,314
+2020,3,Sants-Montjuïc,16,la Bordeta,Furgonetes,Altres nacionalitats,34
+2020,3,Sants-Montjuïc,16,la Bordeta,Camions,Nacionalitat espanyola,102
+2020,3,Sants-Montjuïc,16,la Bordeta,Camions,Altres nacionalitats,10
+2020,3,Sants-Montjuïc,16,la Bordeta,Altres vehicles,Nacionalitat espanyola,108
+2020,3,Sants-Montjuïc,16,la Bordeta,Altres vehicles,Altres nacionalitats,3
+2020,3,Sants-Montjuïc,17,Sants - Badal,Turismes,Nacionalitat espanyola,5955
+2020,3,Sants-Montjuïc,17,Sants - Badal,Turismes,Altres nacionalitats,496
+2020,3,Sants-Montjuïc,17,Sants - Badal,Motos,Nacionalitat espanyola,2412
+2020,3,Sants-Montjuïc,17,Sants - Badal,Motos,Altres nacionalitats,226
+2020,3,Sants-Montjuïc,17,Sants - Badal,Ciclomotors,Nacionalitat espanyola,531
+2020,3,Sants-Montjuïc,17,Sants - Badal,Ciclomotors,Altres nacionalitats,66
+2020,3,Sants-Montjuïc,17,Sants - Badal,Furgonetes,Nacionalitat espanyola,398
+2020,3,Sants-Montjuïc,17,Sants - Badal,Furgonetes,Altres nacionalitats,96
+2020,3,Sants-Montjuïc,17,Sants - Badal,Camions,Nacionalitat espanyola,100
+2020,3,Sants-Montjuïc,17,Sants - Badal,Camions,Altres nacionalitats,20
+2020,3,Sants-Montjuïc,17,Sants - Badal,Altres vehicles,Nacionalitat espanyola,151
+2020,3,Sants-Montjuïc,17,Sants - Badal,Altres vehicles,Altres nacionalitats,3
+2020,3,Sants-Montjuïc,18,Sants,Turismes,Nacionalitat espanyola,9666
+2020,3,Sants-Montjuïc,18,Sants,Turismes,Altres nacionalitats,841
+2020,3,Sants-Montjuïc,18,Sants,Motos,Nacionalitat espanyola,4462
+2020,3,Sants-Montjuïc,18,Sants,Motos,Altres nacionalitats,453
+2020,3,Sants-Montjuïc,18,Sants,Ciclomotors,Nacionalitat espanyola,965
+2020,3,Sants-Montjuïc,18,Sants,Ciclomotors,Altres nacionalitats,117
+2020,3,Sants-Montjuïc,18,Sants,Furgonetes,Nacionalitat espanyola,710
+2020,3,Sants-Montjuïc,18,Sants,Furgonetes,Altres nacionalitats,127
+2020,3,Sants-Montjuïc,18,Sants,Camions,Nacionalitat espanyola,218
+2020,3,Sants-Montjuïc,18,Sants,Camions,Altres nacionalitats,26
+2020,3,Sants-Montjuïc,18,Sants,Altres vehicles,Nacionalitat espanyola,205
+2020,3,Sants-Montjuïc,18,Sants,Altres vehicles,Altres nacionalitats,8
+2020,4,Les Corts,19,les Corts,Turismes,Nacionalitat espanyola,16331
+2020,4,Les Corts,19,les Corts,Turismes,Altres nacionalitats,745
+2020,4,Les Corts,19,les Corts,Motos,Nacionalitat espanyola,7062
+2020,4,Les Corts,19,les Corts,Motos,Altres nacionalitats,430
+2020,4,Les Corts,19,les Corts,Ciclomotors,Nacionalitat espanyola,1560
+2020,4,Les Corts,19,les Corts,Ciclomotors,Altres nacionalitats,60
+2020,4,Les Corts,19,les Corts,Furgonetes,Nacionalitat espanyola,983
+2020,4,Les Corts,19,les Corts,Furgonetes,Altres nacionalitats,57
+2020,4,Les Corts,19,les Corts,Camions,Nacionalitat espanyola,365
+2020,4,Les Corts,19,les Corts,Camions,Altres nacionalitats,13
+2020,4,Les Corts,19,les Corts,Altres vehicles,Nacionalitat espanyola,346
+2020,4,Les Corts,19,les Corts,Altres vehicles,Altres nacionalitats,4
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Turismes,Nacionalitat espanyola,7847
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Turismes,Altres nacionalitats,465
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Motos,Nacionalitat espanyola,3427
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Motos,Altres nacionalitats,214
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Ciclomotors,Nacionalitat espanyola,578
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Ciclomotors,Altres nacionalitats,56
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Furgonetes,Nacionalitat espanyola,440
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Furgonetes,Altres nacionalitats,38
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Camions,Nacionalitat espanyola,195
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Camions,Altres nacionalitats,11
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Altres vehicles,Nacionalitat espanyola,216
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Altres vehicles,Altres nacionalitats,3
+2020,4,Les Corts,21,Pedralbes,Turismes,Nacionalitat espanyola,5463
+2020,4,Les Corts,21,Pedralbes,Turismes,Altres nacionalitats,542
+2020,4,Les Corts,21,Pedralbes,Motos,Nacionalitat espanyola,2740
+2020,4,Les Corts,21,Pedralbes,Motos,Altres nacionalitats,155
+2020,4,Les Corts,21,Pedralbes,Ciclomotors,Nacionalitat espanyola,339
+2020,4,Les Corts,21,Pedralbes,Ciclomotors,Altres nacionalitats,23
+2020,4,Les Corts,21,Pedralbes,Furgonetes,Nacionalitat espanyola,240
+2020,4,Les Corts,21,Pedralbes,Furgonetes,Altres nacionalitats,9
+2020,4,Les Corts,21,Pedralbes,Camions,Nacionalitat espanyola,96
+2020,4,Les Corts,21,Pedralbes,Camions,Altres nacionalitats,2
+2020,4,Les Corts,21,Pedralbes,Altres vehicles,Nacionalitat espanyola,129
+2020,4,Les Corts,21,Pedralbes,Altres vehicles,Altres nacionalitats,3
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Turismes,Nacionalitat espanyola,1719
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Turismes,Altres nacionalitats,224
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Motos,Nacionalitat espanyola,877
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Motos,Altres nacionalitats,77
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Ciclomotors,Nacionalitat espanyola,117
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Ciclomotors,Altres nacionalitats,9
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Furgonetes,Nacionalitat espanyola,154
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Furgonetes,Altres nacionalitats,18
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Camions,Nacionalitat espanyola,47
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Camions,Altres nacionalitats,2
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Altres vehicles,Nacionalitat espanyola,48
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Altres vehicles,Altres nacionalitats,4
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Turismes,Nacionalitat espanyola,8814
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Turismes,Altres nacionalitats,708
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Motos,Nacionalitat espanyola,5362
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Motos,Altres nacionalitats,285
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Ciclomotors,Nacionalitat espanyola,598
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Ciclomotors,Altres nacionalitats,53
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Furgonetes,Nacionalitat espanyola,496
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Furgonetes,Altres nacionalitats,25
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Camions,Nacionalitat espanyola,144
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Camions,Altres nacionalitats,3
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Altres vehicles,Nacionalitat espanyola,188
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Altres vehicles,Altres nacionalitats,10
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Turismes,Nacionalitat espanyola,7028
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Turismes,Altres nacionalitats,356
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Motos,Nacionalitat espanyola,4327
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Motos,Altres nacionalitats,157
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Ciclomotors,Nacionalitat espanyola,467
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Ciclomotors,Altres nacionalitats,20
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Furgonetes,Nacionalitat espanyola,264
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Furgonetes,Altres nacionalitats,13
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Camions,Nacionalitat espanyola,89
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Camions,Altres nacionalitats,2
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Altres vehicles,Nacionalitat espanyola,109
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Altres vehicles,Altres nacionalitats,1
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Turismes,Nacionalitat espanyola,9729
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Turismes,Altres nacionalitats,513
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Motos,Nacionalitat espanyola,6482
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Motos,Altres nacionalitats,280
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Ciclomotors,Nacionalitat espanyola,763
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Ciclomotors,Altres nacionalitats,54
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Furgonetes,Nacionalitat espanyola,416
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Furgonetes,Altres nacionalitats,31
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Camions,Nacionalitat espanyola,120
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Camions,Altres nacionalitats,7
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Altres vehicles,Nacionalitat espanyola,166
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Altres vehicles,Altres nacionalitats,2
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Turismes,Nacionalitat espanyola,19725
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Turismes,Altres nacionalitats,1054
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Motos,Nacionalitat espanyola,12067
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Motos,Altres nacionalitats,635
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Ciclomotors,Nacionalitat espanyola,1364
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Ciclomotors,Altres nacionalitats,91
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Furgonetes,Nacionalitat espanyola,1209
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Furgonetes,Altres nacionalitats,55
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Camions,Nacionalitat espanyola,478
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Camions,Altres nacionalitats,34
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Altres vehicles,Nacionalitat espanyola,563
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Altres vehicles,Altres nacionalitats,7
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Turismes,Nacionalitat espanyola,9003
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Turismes,Altres nacionalitats,601
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Motos,Nacionalitat espanyola,5942
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Motos,Altres nacionalitats,442
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Ciclomotors,Nacionalitat espanyola,763
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Ciclomotors,Altres nacionalitats,58
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Furgonetes,Nacionalitat espanyola,484
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Furgonetes,Altres nacionalitats,39
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Camions,Nacionalitat espanyola,96
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Camions,Altres nacionalitats,3
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Altres vehicles,Nacionalitat espanyola,142
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Altres vehicles,Altres nacionalitats,2
+2020,6,Gràcia,28,Vallcarca i els Penitents,Turismes,Nacionalitat espanyola,4990
+2020,6,Gràcia,28,Vallcarca i els Penitents,Turismes,Altres nacionalitats,415
+2020,6,Gràcia,28,Vallcarca i els Penitents,Motos,Nacionalitat espanyola,2703
+2020,6,Gràcia,28,Vallcarca i els Penitents,Motos,Altres nacionalitats,241
+2020,6,Gràcia,28,Vallcarca i els Penitents,Ciclomotors,Nacionalitat espanyola,434
+2020,6,Gràcia,28,Vallcarca i els Penitents,Ciclomotors,Altres nacionalitats,38
+2020,6,Gràcia,28,Vallcarca i els Penitents,Furgonetes,Nacionalitat espanyola,282
+2020,6,Gràcia,28,Vallcarca i els Penitents,Furgonetes,Altres nacionalitats,26
+2020,6,Gràcia,28,Vallcarca i els Penitents,Camions,Nacionalitat espanyola,55
+2020,6,Gràcia,28,Vallcarca i els Penitents,Camions,Altres nacionalitats,15
+2020,6,Gràcia,28,Vallcarca i els Penitents,Altres vehicles,Nacionalitat espanyola,89
+2020,6,Gràcia,28,Vallcarca i els Penitents,Altres vehicles,Altres nacionalitats,9
+2020,6,Gràcia,29,el Coll,Turismes,Nacionalitat espanyola,1931
+2020,6,Gràcia,29,el Coll,Turismes,Altres nacionalitats,154
+2020,6,Gràcia,29,el Coll,Motos,Nacionalitat espanyola,1164
+2020,6,Gràcia,29,el Coll,Motos,Altres nacionalitats,113
+2020,6,Gràcia,29,el Coll,Ciclomotors,Nacionalitat espanyola,240
+2020,6,Gràcia,29,el Coll,Ciclomotors,Altres nacionalitats,18
+2020,6,Gràcia,29,el Coll,Furgonetes,Nacionalitat espanyola,124
+2020,6,Gràcia,29,el Coll,Furgonetes,Altres nacionalitats,14
+2020,6,Gràcia,29,el Coll,Camions,Nacionalitat espanyola,25
+2020,6,Gràcia,29,el Coll,Camions,Altres nacionalitats,6
+2020,6,Gràcia,29,el Coll,Altres vehicles,Nacionalitat espanyola,31
+2020,6,Gràcia,29,el Coll,Altres vehicles,Altres nacionalitats,2
+2020,6,Gràcia,30,la Salut,Turismes,Nacionalitat espanyola,3939
+2020,6,Gràcia,30,la Salut,Turismes,Altres nacionalitats,256
+2020,6,Gràcia,30,la Salut,Motos,Nacionalitat espanyola,2111
+2020,6,Gràcia,30,la Salut,Motos,Altres nacionalitats,186
+2020,6,Gràcia,30,la Salut,Ciclomotors,Nacionalitat espanyola,357
+2020,6,Gràcia,30,la Salut,Ciclomotors,Altres nacionalitats,38
+2020,6,Gràcia,30,la Salut,Furgonetes,Nacionalitat espanyola,212
+2020,6,Gràcia,30,la Salut,Furgonetes,Altres nacionalitats,28
+2020,6,Gràcia,30,la Salut,Camions,Nacionalitat espanyola,33
+2020,6,Gràcia,30,la Salut,Camions,Altres nacionalitats,10
+2020,6,Gràcia,30,la Salut,Altres vehicles,Nacionalitat espanyola,79
+2020,6,Gràcia,30,la Salut,Altres vehicles,Altres nacionalitats,1
+2020,6,Gràcia,31,la Vila de Gràcia,Turismes,Nacionalitat espanyola,11062
+2020,6,Gràcia,31,la Vila de Gràcia,Turismes,Altres nacionalitats,1061
+2020,6,Gràcia,31,la Vila de Gràcia,Motos,Nacionalitat espanyola,6388
+2020,6,Gràcia,31,la Vila de Gràcia,Motos,Altres nacionalitats,943
+2020,6,Gràcia,31,la Vila de Gràcia,Ciclomotors,Nacionalitat espanyola,1201
+2020,6,Gràcia,31,la Vila de Gràcia,Ciclomotors,Altres nacionalitats,157
+2020,6,Gràcia,31,la Vila de Gràcia,Furgonetes,Nacionalitat espanyola,929
+2020,6,Gràcia,31,la Vila de Gràcia,Furgonetes,Altres nacionalitats,135
+2020,6,Gràcia,31,la Vila de Gràcia,Camions,Nacionalitat espanyola,434
+2020,6,Gràcia,31,la Vila de Gràcia,Camions,Altres nacionalitats,21
+2020,6,Gràcia,31,la Vila de Gràcia,Altres vehicles,Nacionalitat espanyola,326
+2020,6,Gràcia,31,la Vila de Gràcia,Altres vehicles,Altres nacionalitats,27
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Turismes,Nacionalitat espanyola,9348
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Turismes,Altres nacionalitats,553
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Motos,Nacionalitat espanyola,4737
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Motos,Altres nacionalitats,458
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Ciclomotors,Nacionalitat espanyola,913
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Ciclomotors,Altres nacionalitats,97
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Furgonetes,Nacionalitat espanyola,571
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Furgonetes,Altres nacionalitats,76
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Camions,Nacionalitat espanyola,127
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Camions,Altres nacionalitats,12
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Altres vehicles,Nacionalitat espanyola,184
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Altres vehicles,Altres nacionalitats,13
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Turismes,Nacionalitat espanyola,6578
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Turismes,Altres nacionalitats,462
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Motos,Nacionalitat espanyola,3185
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Motos,Altres nacionalitats,276
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Ciclomotors,Nacionalitat espanyola,599
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Ciclomotors,Altres nacionalitats,68
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Furgonetes,Nacionalitat espanyola,422
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Furgonetes,Altres nacionalitats,71
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Camions,Nacionalitat espanyola,103
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Camions,Altres nacionalitats,11
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Altres vehicles,Nacionalitat espanyola,149
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Altres vehicles,Altres nacionalitats,3
+2020,7,Horta-Guinardó,34,Can Baró,Turismes,Nacionalitat espanyola,2545
+2020,7,Horta-Guinardó,34,Can Baró,Turismes,Altres nacionalitats,175
+2020,7,Horta-Guinardó,34,Can Baró,Motos,Nacionalitat espanyola,1452
+2020,7,Horta-Guinardó,34,Can Baró,Motos,Altres nacionalitats,140
+2020,7,Horta-Guinardó,34,Can Baró,Ciclomotors,Nacionalitat espanyola,349
+2020,7,Horta-Guinardó,34,Can Baró,Ciclomotors,Altres nacionalitats,30
+2020,7,Horta-Guinardó,34,Can Baró,Furgonetes,Nacionalitat espanyola,189
+2020,7,Horta-Guinardó,34,Can Baró,Furgonetes,Altres nacionalitats,20
+2020,7,Horta-Guinardó,34,Can Baró,Camions,Nacionalitat espanyola,53
+2020,7,Horta-Guinardó,34,Can Baró,Camions,Altres nacionalitats,4
+2020,7,Horta-Guinardó,34,Can Baró,Altres vehicles,Nacionalitat espanyola,58
+2020,7,Horta-Guinardó,34,Can Baró,Altres vehicles,Altres nacionalitats,2
+2020,7,Horta-Guinardó,35,el Guinardó,Turismes,Nacionalitat espanyola,9716
+2020,7,Horta-Guinardó,35,el Guinardó,Turismes,Altres nacionalitats,702
+2020,7,Horta-Guinardó,35,el Guinardó,Motos,Nacionalitat espanyola,4431
+2020,7,Horta-Guinardó,35,el Guinardó,Motos,Altres nacionalitats,430
+2020,7,Horta-Guinardó,35,el Guinardó,Ciclomotors,Nacionalitat espanyola,838
+2020,7,Horta-Guinardó,35,el Guinardó,Ciclomotors,Altres nacionalitats,99
+2020,7,Horta-Guinardó,35,el Guinardó,Furgonetes,Nacionalitat espanyola,843
+2020,7,Horta-Guinardó,35,el Guinardó,Furgonetes,Altres nacionalitats,92
+2020,7,Horta-Guinardó,35,el Guinardó,Camions,Nacionalitat espanyola,340
+2020,7,Horta-Guinardó,35,el Guinardó,Camions,Altres nacionalitats,18
+2020,7,Horta-Guinardó,35,el Guinardó,Altres vehicles,Nacionalitat espanyola,304
+2020,7,Horta-Guinardó,35,el Guinardó,Altres vehicles,Altres nacionalitats,5
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Turismes,Nacionalitat espanyola,3319
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Turismes,Altres nacionalitats,119
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Motos,Nacionalitat espanyola,1783
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Motos,Altres nacionalitats,75
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Ciclomotors,Nacionalitat espanyola,265
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Ciclomotors,Altres nacionalitats,10
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Furgonetes,Nacionalitat espanyola,218
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Furgonetes,Altres nacionalitats,12
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Camions,Nacionalitat espanyola,69
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Camions,Altres nacionalitats,1
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Altres vehicles,Nacionalitat espanyola,103
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Altres vehicles,Altres nacionalitats,2
+2020,7,Horta-Guinardó,37,el Carmel,Turismes,Nacionalitat espanyola,7953
+2020,7,Horta-Guinardó,37,el Carmel,Turismes,Altres nacionalitats,669
+2020,7,Horta-Guinardó,37,el Carmel,Motos,Nacionalitat espanyola,4005
+2020,7,Horta-Guinardó,37,el Carmel,Motos,Altres nacionalitats,346
+2020,7,Horta-Guinardó,37,el Carmel,Ciclomotors,Nacionalitat espanyola,1030
+2020,7,Horta-Guinardó,37,el Carmel,Ciclomotors,Altres nacionalitats,105
+2020,7,Horta-Guinardó,37,el Carmel,Furgonetes,Nacionalitat espanyola,560
+2020,7,Horta-Guinardó,37,el Carmel,Furgonetes,Altres nacionalitats,118
+2020,7,Horta-Guinardó,37,el Carmel,Camions,Nacionalitat espanyola,173
+2020,7,Horta-Guinardó,37,el Carmel,Camions,Altres nacionalitats,21
+2020,7,Horta-Guinardó,37,el Carmel,Altres vehicles,Nacionalitat espanyola,153
+2020,7,Horta-Guinardó,37,el Carmel,Altres vehicles,Altres nacionalitats,4
+2020,7,Horta-Guinardó,38,la Teixonera,Turismes,Nacionalitat espanyola,3150
+2020,7,Horta-Guinardó,38,la Teixonera,Turismes,Altres nacionalitats,286
+2020,7,Horta-Guinardó,38,la Teixonera,Motos,Nacionalitat espanyola,1555
+2020,7,Horta-Guinardó,38,la Teixonera,Motos,Altres nacionalitats,135
+2020,7,Horta-Guinardó,38,la Teixonera,Ciclomotors,Nacionalitat espanyola,343
+2020,7,Horta-Guinardó,38,la Teixonera,Ciclomotors,Altres nacionalitats,34
+2020,7,Horta-Guinardó,38,la Teixonera,Furgonetes,Nacionalitat espanyola,258
+2020,7,Horta-Guinardó,38,la Teixonera,Furgonetes,Altres nacionalitats,32
+2020,7,Horta-Guinardó,38,la Teixonera,Camions,Nacionalitat espanyola,73
+2020,7,Horta-Guinardó,38,la Teixonera,Camions,Altres nacionalitats,13
+2020,7,Horta-Guinardó,38,la Teixonera,Altres vehicles,Nacionalitat espanyola,53
+2020,7,Horta-Guinardó,38,la Teixonera,Altres vehicles,Altres nacionalitats,1
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Turismes,Nacionalitat espanyola,2056
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Turismes,Altres nacionalitats,153
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Motos,Nacionalitat espanyola,811
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Motos,Altres nacionalitats,63
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Ciclomotors,Nacionalitat espanyola,193
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Ciclomotors,Altres nacionalitats,17
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Furgonetes,Nacionalitat espanyola,170
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Furgonetes,Altres nacionalitats,22
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Camions,Nacionalitat espanyola,29
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Camions,Altres nacionalitats,6
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Altres vehicles,Nacionalitat espanyola,36
+2020,7,Horta-Guinardó,40,Montbau,Turismes,Nacionalitat espanyola,1500
+2020,7,Horta-Guinardó,40,Montbau,Turismes,Altres nacionalitats,97
+2020,7,Horta-Guinardó,40,Montbau,Motos,Nacionalitat espanyola,512
+2020,7,Horta-Guinardó,40,Montbau,Motos,Altres nacionalitats,41
+2020,7,Horta-Guinardó,40,Montbau,Ciclomotors,Nacionalitat espanyola,81
+2020,7,Horta-Guinardó,40,Montbau,Ciclomotors,Altres nacionalitats,9
+2020,7,Horta-Guinardó,40,Montbau,Furgonetes,Nacionalitat espanyola,74
+2020,7,Horta-Guinardó,40,Montbau,Furgonetes,Altres nacionalitats,12
+2020,7,Horta-Guinardó,40,Montbau,Camions,Nacionalitat espanyola,20
+2020,7,Horta-Guinardó,40,Montbau,Camions,Altres nacionalitats,2
+2020,7,Horta-Guinardó,40,Montbau,Altres vehicles,Nacionalitat espanyola,27
+2020,7,Horta-Guinardó,40,Montbau,Altres vehicles,Altres nacionalitats,3
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Turismes,Nacionalitat espanyola,1968
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Turismes,Altres nacionalitats,104
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Motos,Nacionalitat espanyola,605
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Motos,Altres nacionalitats,36
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Ciclomotors,Nacionalitat espanyola,96
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Ciclomotors,Altres nacionalitats,6
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Furgonetes,Nacionalitat espanyola,131
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Furgonetes,Altres nacionalitats,10
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Camions,Nacionalitat espanyola,25
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Altres vehicles,Nacionalitat espanyola,31
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Altres vehicles,Altres nacionalitats,1
+2020,7,Horta-Guinardó,42,la Clota,Turismes,Nacionalitat espanyola,186
+2020,7,Horta-Guinardó,42,la Clota,Turismes,Altres nacionalitats,6
+2020,7,Horta-Guinardó,42,la Clota,Motos,Nacionalitat espanyola,98
+2020,7,Horta-Guinardó,42,la Clota,Motos,Altres nacionalitats,5
+2020,7,Horta-Guinardó,42,la Clota,Ciclomotors,Nacionalitat espanyola,23
+2020,7,Horta-Guinardó,42,la Clota,Ciclomotors,Altres nacionalitats,4
+2020,7,Horta-Guinardó,42,la Clota,Furgonetes,Nacionalitat espanyola,51
+2020,7,Horta-Guinardó,42,la Clota,Furgonetes,Altres nacionalitats,1
+2020,7,Horta-Guinardó,42,la Clota,Camions,Nacionalitat espanyola,7
+2020,7,Horta-Guinardó,42,la Clota,Altres vehicles,Nacionalitat espanyola,5
+2020,7,Horta-Guinardó,43,Horta,Turismes,Nacionalitat espanyola,7696
+2020,7,Horta-Guinardó,43,Horta,Turismes,Altres nacionalitats,311
+2020,7,Horta-Guinardó,43,Horta,Motos,Nacionalitat espanyola,3402
+2020,7,Horta-Guinardó,43,Horta,Motos,Altres nacionalitats,169
+2020,7,Horta-Guinardó,43,Horta,Ciclomotors,Nacionalitat espanyola,592
+2020,7,Horta-Guinardó,43,Horta,Ciclomotors,Altres nacionalitats,42
+2020,7,Horta-Guinardó,43,Horta,Furgonetes,Nacionalitat espanyola,495
+2020,7,Horta-Guinardó,43,Horta,Furgonetes,Altres nacionalitats,53
+2020,7,Horta-Guinardó,43,Horta,Camions,Nacionalitat espanyola,122
+2020,7,Horta-Guinardó,43,Horta,Camions,Altres nacionalitats,7
+2020,7,Horta-Guinardó,43,Horta,Altres vehicles,Nacionalitat espanyola,165
+2020,7,Horta-Guinardó,43,Horta,Altres vehicles,Altres nacionalitats,2
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Turismes,Nacionalitat espanyola,6588
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Turismes,Altres nacionalitats,410
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Motos,Nacionalitat espanyola,2505
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Motos,Altres nacionalitats,180
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Ciclomotors,Nacionalitat espanyola,469
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Ciclomotors,Altres nacionalitats,71
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Furgonetes,Nacionalitat espanyola,556
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Furgonetes,Altres nacionalitats,61
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Camions,Nacionalitat espanyola,143
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Camions,Altres nacionalitats,16
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Altres vehicles,Nacionalitat espanyola,157
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Altres vehicles,Altres nacionalitats,5
+2020,8,Nou Barris,45,Porta,Turismes,Nacionalitat espanyola,6153
+2020,8,Nou Barris,45,Porta,Turismes,Altres nacionalitats,440
+2020,8,Nou Barris,45,Porta,Motos,Nacionalitat espanyola,2016
+2020,8,Nou Barris,45,Porta,Motos,Altres nacionalitats,188
+2020,8,Nou Barris,45,Porta,Ciclomotors,Nacionalitat espanyola,477
+2020,8,Nou Barris,45,Porta,Ciclomotors,Altres nacionalitats,43
+2020,8,Nou Barris,45,Porta,Furgonetes,Nacionalitat espanyola,427
+2020,8,Nou Barris,45,Porta,Furgonetes,Altres nacionalitats,77
+2020,8,Nou Barris,45,Porta,Camions,Nacionalitat espanyola,126
+2020,8,Nou Barris,45,Porta,Camions,Altres nacionalitats,11
+2020,8,Nou Barris,45,Porta,Altres vehicles,Nacionalitat espanyola,125
+2020,8,Nou Barris,45,Porta,Altres vehicles,Altres nacionalitats,1
+2020,8,Nou Barris,46,el Turó de la Peira,Turismes,Nacionalitat espanyola,3026
+2020,8,Nou Barris,46,el Turó de la Peira,Turismes,Altres nacionalitats,341
+2020,8,Nou Barris,46,el Turó de la Peira,Motos,Nacionalitat espanyola,1140
+2020,8,Nou Barris,46,el Turó de la Peira,Motos,Altres nacionalitats,144
+2020,8,Nou Barris,46,el Turó de la Peira,Ciclomotors,Nacionalitat espanyola,315
+2020,8,Nou Barris,46,el Turó de la Peira,Ciclomotors,Altres nacionalitats,44
+2020,8,Nou Barris,46,el Turó de la Peira,Furgonetes,Nacionalitat espanyola,262
+2020,8,Nou Barris,46,el Turó de la Peira,Furgonetes,Altres nacionalitats,71
+2020,8,Nou Barris,46,el Turó de la Peira,Camions,Nacionalitat espanyola,50
+2020,8,Nou Barris,46,el Turó de la Peira,Camions,Altres nacionalitats,13
+2020,8,Nou Barris,46,el Turó de la Peira,Altres vehicles,Nacionalitat espanyola,38
+2020,8,Nou Barris,46,el Turó de la Peira,Altres vehicles,Altres nacionalitats,3
+2020,8,Nou Barris,47,Can Peguera,Turismes,Nacionalitat espanyola,566
+2020,8,Nou Barris,47,Can Peguera,Turismes,Altres nacionalitats,20
+2020,8,Nou Barris,47,Can Peguera,Motos,Nacionalitat espanyola,191
+2020,8,Nou Barris,47,Can Peguera,Motos,Altres nacionalitats,11
+2020,8,Nou Barris,47,Can Peguera,Ciclomotors,Nacionalitat espanyola,100
+2020,8,Nou Barris,47,Can Peguera,Ciclomotors,Altres nacionalitats,3
+2020,8,Nou Barris,47,Can Peguera,Furgonetes,Nacionalitat espanyola,49
+2020,8,Nou Barris,47,Can Peguera,Furgonetes,Altres nacionalitats,6
+2020,8,Nou Barris,47,Can Peguera,Camions,Nacionalitat espanyola,12
+2020,8,Nou Barris,47,Can Peguera,Altres vehicles,Nacionalitat espanyola,13
+2020,8,Nou Barris,48,la Guineueta,Turismes,Nacionalitat espanyola,4583
+2020,8,Nou Barris,48,la Guineueta,Turismes,Altres nacionalitats,161
+2020,8,Nou Barris,48,la Guineueta,Motos,Nacionalitat espanyola,1392
+2020,8,Nou Barris,48,la Guineueta,Motos,Altres nacionalitats,76
+2020,8,Nou Barris,48,la Guineueta,Ciclomotors,Nacionalitat espanyola,278
+2020,8,Nou Barris,48,la Guineueta,Ciclomotors,Altres nacionalitats,10
+2020,8,Nou Barris,48,la Guineueta,Furgonetes,Nacionalitat espanyola,238
+2020,8,Nou Barris,48,la Guineueta,Furgonetes,Altres nacionalitats,22
+2020,8,Nou Barris,48,la Guineueta,Camions,Nacionalitat espanyola,74
+2020,8,Nou Barris,48,la Guineueta,Camions,Altres nacionalitats,3
+2020,8,Nou Barris,48,la Guineueta,Altres vehicles,Nacionalitat espanyola,73
+2020,8,Nou Barris,48,la Guineueta,Altres vehicles,Altres nacionalitats,2
+2020,8,Nou Barris,49,Canyelles,Turismes,Nacionalitat espanyola,2530
+2020,8,Nou Barris,49,Canyelles,Turismes,Altres nacionalitats,54
+2020,8,Nou Barris,49,Canyelles,Motos,Nacionalitat espanyola,697
+2020,8,Nou Barris,49,Canyelles,Motos,Altres nacionalitats,19
+2020,8,Nou Barris,49,Canyelles,Ciclomotors,Nacionalitat espanyola,186
+2020,8,Nou Barris,49,Canyelles,Ciclomotors,Altres nacionalitats,6
+2020,8,Nou Barris,49,Canyelles,Furgonetes,Nacionalitat espanyola,148
+2020,8,Nou Barris,49,Canyelles,Furgonetes,Altres nacionalitats,7
+2020,8,Nou Barris,49,Canyelles,Camions,Nacionalitat espanyola,41
+2020,8,Nou Barris,49,Canyelles,Altres vehicles,Nacionalitat espanyola,49
+2020,8,Nou Barris,50,les Roquetes,Turismes,Nacionalitat espanyola,3832
+2020,8,Nou Barris,50,les Roquetes,Turismes,Altres nacionalitats,639
+2020,8,Nou Barris,50,les Roquetes,Motos,Nacionalitat espanyola,1213
+2020,8,Nou Barris,50,les Roquetes,Motos,Altres nacionalitats,134
+2020,8,Nou Barris,50,les Roquetes,Ciclomotors,Nacionalitat espanyola,394
+2020,8,Nou Barris,50,les Roquetes,Ciclomotors,Altres nacionalitats,42
+2020,8,Nou Barris,50,les Roquetes,Furgonetes,Nacionalitat espanyola,366
+2020,8,Nou Barris,50,les Roquetes,Furgonetes,Altres nacionalitats,80
+2020,8,Nou Barris,50,les Roquetes,Camions,Nacionalitat espanyola,134
+2020,8,Nou Barris,50,les Roquetes,Camions,Altres nacionalitats,23
+2020,8,Nou Barris,50,les Roquetes,Altres vehicles,Nacionalitat espanyola,105
+2020,8,Nou Barris,50,les Roquetes,Altres vehicles,Altres nacionalitats,2
+2020,8,Nou Barris,51,Verdun,Turismes,Nacionalitat espanyola,2854
+2020,8,Nou Barris,51,Verdun,Turismes,Altres nacionalitats,317
+2020,8,Nou Barris,51,Verdun,Motos,Nacionalitat espanyola,893
+2020,8,Nou Barris,51,Verdun,Motos,Altres nacionalitats,87
+2020,8,Nou Barris,51,Verdun,Ciclomotors,Nacionalitat espanyola,253
+2020,8,Nou Barris,51,Verdun,Ciclomotors,Altres nacionalitats,26
+2020,8,Nou Barris,51,Verdun,Furgonetes,Nacionalitat espanyola,259
+2020,8,Nou Barris,51,Verdun,Furgonetes,Altres nacionalitats,43
+2020,8,Nou Barris,51,Verdun,Camions,Nacionalitat espanyola,70
+2020,8,Nou Barris,51,Verdun,Camions,Altres nacionalitats,13
+2020,8,Nou Barris,51,Verdun,Altres vehicles,Nacionalitat espanyola,51
+2020,8,Nou Barris,51,Verdun,Altres vehicles,Altres nacionalitats,2
+2020,8,Nou Barris,52,la Prosperitat,Turismes,Nacionalitat espanyola,6892
+2020,8,Nou Barris,52,la Prosperitat,Turismes,Altres nacionalitats,545
+2020,8,Nou Barris,52,la Prosperitat,Motos,Nacionalitat espanyola,2109
+2020,8,Nou Barris,52,la Prosperitat,Motos,Altres nacionalitats,169
+2020,8,Nou Barris,52,la Prosperitat,Ciclomotors,Nacionalitat espanyola,489
+2020,8,Nou Barris,52,la Prosperitat,Ciclomotors,Altres nacionalitats,54
+2020,8,Nou Barris,52,la Prosperitat,Furgonetes,Nacionalitat espanyola,532
+2020,8,Nou Barris,52,la Prosperitat,Furgonetes,Altres nacionalitats,89
+2020,8,Nou Barris,52,la Prosperitat,Camions,Nacionalitat espanyola,175
+2020,8,Nou Barris,52,la Prosperitat,Camions,Altres nacionalitats,22
+2020,8,Nou Barris,52,la Prosperitat,Altres vehicles,Nacionalitat espanyola,202
+2020,8,Nou Barris,52,la Prosperitat,Altres vehicles,Altres nacionalitats,6
+2020,8,Nou Barris,53,la Trinitat Nova,Turismes,Nacionalitat espanyola,1615
+2020,8,Nou Barris,53,la Trinitat Nova,Turismes,Altres nacionalitats,214
+2020,8,Nou Barris,53,la Trinitat Nova,Motos,Nacionalitat espanyola,463
+2020,8,Nou Barris,53,la Trinitat Nova,Motos,Altres nacionalitats,64
+2020,8,Nou Barris,53,la Trinitat Nova,Ciclomotors,Nacionalitat espanyola,192
+2020,8,Nou Barris,53,la Trinitat Nova,Ciclomotors,Altres nacionalitats,19
+2020,8,Nou Barris,53,la Trinitat Nova,Furgonetes,Nacionalitat espanyola,146
+2020,8,Nou Barris,53,la Trinitat Nova,Furgonetes,Altres nacionalitats,41
+2020,8,Nou Barris,53,la Trinitat Nova,Camions,Nacionalitat espanyola,46
+2020,8,Nou Barris,53,la Trinitat Nova,Camions,Altres nacionalitats,2
+2020,8,Nou Barris,53,la Trinitat Nova,Altres vehicles,Nacionalitat espanyola,32
+2020,8,Nou Barris,54,Torre Baró,Turismes,Nacionalitat espanyola,826
+2020,8,Nou Barris,54,Torre Baró,Turismes,Altres nacionalitats,64
+2020,8,Nou Barris,54,Torre Baró,Motos,Nacionalitat espanyola,230
+2020,8,Nou Barris,54,Torre Baró,Motos,Altres nacionalitats,16
+2020,8,Nou Barris,54,Torre Baró,Ciclomotors,Nacionalitat espanyola,134
+2020,8,Nou Barris,54,Torre Baró,Ciclomotors,Altres nacionalitats,1
+2020,8,Nou Barris,54,Torre Baró,Furgonetes,Nacionalitat espanyola,111
+2020,8,Nou Barris,54,Torre Baró,Furgonetes,Altres nacionalitats,17
+2020,8,Nou Barris,54,Torre Baró,Camions,Nacionalitat espanyola,52
+2020,8,Nou Barris,54,Torre Baró,Camions,Altres nacionalitats,6
+2020,8,Nou Barris,54,Torre Baró,Altres vehicles,Nacionalitat espanyola,30
+2020,8,Nou Barris,54,Torre Baró,Altres vehicles,Altres nacionalitats,2
+2020,8,Nou Barris,55,Ciutat Meridiana,Turismes,Nacionalitat espanyola,2211
+2020,8,Nou Barris,55,Ciutat Meridiana,Turismes,Altres nacionalitats,459
+2020,8,Nou Barris,55,Ciutat Meridiana,Motos,Nacionalitat espanyola,415
+2020,8,Nou Barris,55,Ciutat Meridiana,Motos,Altres nacionalitats,86
+2020,8,Nou Barris,55,Ciutat Meridiana,Ciclomotors,Nacionalitat espanyola,177
+2020,8,Nou Barris,55,Ciutat Meridiana,Ciclomotors,Altres nacionalitats,41
+2020,8,Nou Barris,55,Ciutat Meridiana,Furgonetes,Nacionalitat espanyola,174
+2020,8,Nou Barris,55,Ciutat Meridiana,Furgonetes,Altres nacionalitats,79
+2020,8,Nou Barris,55,Ciutat Meridiana,Camions,Nacionalitat espanyola,69
+2020,8,Nou Barris,55,Ciutat Meridiana,Camions,Altres nacionalitats,24
+2020,8,Nou Barris,55,Ciutat Meridiana,Altres vehicles,Nacionalitat espanyola,52
+2020,8,Nou Barris,55,Ciutat Meridiana,Altres vehicles,Altres nacionalitats,2
+2020,8,Nou Barris,56,Vallbona,Turismes,Nacionalitat espanyola,417
+2020,8,Nou Barris,56,Vallbona,Turismes,Altres nacionalitats,35
+2020,8,Nou Barris,56,Vallbona,Motos,Nacionalitat espanyola,114
+2020,8,Nou Barris,56,Vallbona,Motos,Altres nacionalitats,10
+2020,8,Nou Barris,56,Vallbona,Ciclomotors,Nacionalitat espanyola,58
+2020,8,Nou Barris,56,Vallbona,Ciclomotors,Altres nacionalitats,4
+2020,8,Nou Barris,56,Vallbona,Furgonetes,Nacionalitat espanyola,39
+2020,8,Nou Barris,56,Vallbona,Furgonetes,Altres nacionalitats,7
+2020,8,Nou Barris,56,Vallbona,Camions,Nacionalitat espanyola,29
+2020,8,Nou Barris,56,Vallbona,Camions,Altres nacionalitats,2
+2020,8,Nou Barris,56,Vallbona,Altres vehicles,Nacionalitat espanyola,24
+2020,8,Nou Barris,56,Vallbona,Altres vehicles,Altres nacionalitats,1
+2020,9,Sant Andreu,57,la Trinitat Vella,Turismes,Nacionalitat espanyola,2196
+2020,9,Sant Andreu,57,la Trinitat Vella,Turismes,Altres nacionalitats,528
+2020,9,Sant Andreu,57,la Trinitat Vella,Motos,Nacionalitat espanyola,609
+2020,9,Sant Andreu,57,la Trinitat Vella,Motos,Altres nacionalitats,101
+2020,9,Sant Andreu,57,la Trinitat Vella,Ciclomotors,Nacionalitat espanyola,238
+2020,9,Sant Andreu,57,la Trinitat Vella,Ciclomotors,Altres nacionalitats,50
+2020,9,Sant Andreu,57,la Trinitat Vella,Furgonetes,Nacionalitat espanyola,207
+2020,9,Sant Andreu,57,la Trinitat Vella,Furgonetes,Altres nacionalitats,78
+2020,9,Sant Andreu,57,la Trinitat Vella,Camions,Nacionalitat espanyola,79
+2020,9,Sant Andreu,57,la Trinitat Vella,Camions,Altres nacionalitats,13
+2020,9,Sant Andreu,57,la Trinitat Vella,Altres vehicles,Nacionalitat espanyola,35
+2020,9,Sant Andreu,57,la Trinitat Vella,Altres vehicles,Altres nacionalitats,6
+2020,9,Sant Andreu,58,Baró de Viver,Turismes,Nacionalitat espanyola,683
+2020,9,Sant Andreu,58,Baró de Viver,Turismes,Altres nacionalitats,44
+2020,9,Sant Andreu,58,Baró de Viver,Motos,Nacionalitat espanyola,213
+2020,9,Sant Andreu,58,Baró de Viver,Motos,Altres nacionalitats,9
+2020,9,Sant Andreu,58,Baró de Viver,Ciclomotors,Nacionalitat espanyola,62
+2020,9,Sant Andreu,58,Baró de Viver,Ciclomotors,Altres nacionalitats,5
+2020,9,Sant Andreu,58,Baró de Viver,Furgonetes,Nacionalitat espanyola,66
+2020,9,Sant Andreu,58,Baró de Viver,Furgonetes,Altres nacionalitats,6
+2020,9,Sant Andreu,58,Baró de Viver,Camions,Nacionalitat espanyola,18
+2020,9,Sant Andreu,58,Baró de Viver,Camions,Altres nacionalitats,3
+2020,9,Sant Andreu,58,Baró de Viver,Altres vehicles,Nacionalitat espanyola,15
+2020,9,Sant Andreu,59,el Bon Pastor,Turismes,Nacionalitat espanyola,4528
+2020,9,Sant Andreu,59,el Bon Pastor,Turismes,Altres nacionalitats,280
+2020,9,Sant Andreu,59,el Bon Pastor,Motos,Nacionalitat espanyola,1049
+2020,9,Sant Andreu,59,el Bon Pastor,Motos,Altres nacionalitats,77
+2020,9,Sant Andreu,59,el Bon Pastor,Ciclomotors,Nacionalitat espanyola,247
+2020,9,Sant Andreu,59,el Bon Pastor,Ciclomotors,Altres nacionalitats,17
+2020,9,Sant Andreu,59,el Bon Pastor,Furgonetes,Nacionalitat espanyola,770
+2020,9,Sant Andreu,59,el Bon Pastor,Furgonetes,Altres nacionalitats,53
+2020,9,Sant Andreu,59,el Bon Pastor,Camions,Nacionalitat espanyola,603
+2020,9,Sant Andreu,59,el Bon Pastor,Camions,Altres nacionalitats,7
+2020,9,Sant Andreu,59,el Bon Pastor,Altres vehicles,Nacionalitat espanyola,306
+2020,9,Sant Andreu,59,el Bon Pastor,Altres vehicles,Altres nacionalitats,3
+2020,9,Sant Andreu,60,Sant Andreu,Turismes,Nacionalitat espanyola,17295
+2020,9,Sant Andreu,60,Sant Andreu,Turismes,Altres nacionalitats,713
+2020,9,Sant Andreu,60,Sant Andreu,Motos,Nacionalitat espanyola,5902
+2020,9,Sant Andreu,60,Sant Andreu,Motos,Altres nacionalitats,271
+2020,9,Sant Andreu,60,Sant Andreu,Ciclomotors,Nacionalitat espanyola,1010
+2020,9,Sant Andreu,60,Sant Andreu,Ciclomotors,Altres nacionalitats,84
+2020,9,Sant Andreu,60,Sant Andreu,Furgonetes,Nacionalitat espanyola,1088
+2020,9,Sant Andreu,60,Sant Andreu,Furgonetes,Altres nacionalitats,105
+2020,9,Sant Andreu,60,Sant Andreu,Camions,Nacionalitat espanyola,249
+2020,9,Sant Andreu,60,Sant Andreu,Camions,Altres nacionalitats,20
+2020,9,Sant Andreu,60,Sant Andreu,Altres vehicles,Nacionalitat espanyola,363
+2020,9,Sant Andreu,60,Sant Andreu,Altres vehicles,Altres nacionalitats,7
+2020,9,Sant Andreu,61,la Sagrera,Turismes,Nacionalitat espanyola,8034
+2020,9,Sant Andreu,61,la Sagrera,Turismes,Altres nacionalitats,447
+2020,9,Sant Andreu,61,la Sagrera,Motos,Nacionalitat espanyola,2692
+2020,9,Sant Andreu,61,la Sagrera,Motos,Altres nacionalitats,225
+2020,9,Sant Andreu,61,la Sagrera,Ciclomotors,Nacionalitat espanyola,566
+2020,9,Sant Andreu,61,la Sagrera,Ciclomotors,Altres nacionalitats,39
+2020,9,Sant Andreu,61,la Sagrera,Furgonetes,Nacionalitat espanyola,482
+2020,9,Sant Andreu,61,la Sagrera,Furgonetes,Altres nacionalitats,76
+2020,9,Sant Andreu,61,la Sagrera,Camions,Nacionalitat espanyola,164
+2020,9,Sant Andreu,61,la Sagrera,Camions,Altres nacionalitats,21
+2020,9,Sant Andreu,61,la Sagrera,Altres vehicles,Nacionalitat espanyola,191
+2020,9,Sant Andreu,61,la Sagrera,Altres vehicles,Altres nacionalitats,2
+2020,9,Sant Andreu,62,el Congrés i els Indians,Turismes,Nacionalitat espanyola,3512
+2020,9,Sant Andreu,62,el Congrés i els Indians,Turismes,Altres nacionalitats,260
+2020,9,Sant Andreu,62,el Congrés i els Indians,Motos,Nacionalitat espanyola,1341
+2020,9,Sant Andreu,62,el Congrés i els Indians,Motos,Altres nacionalitats,122
+2020,9,Sant Andreu,62,el Congrés i els Indians,Ciclomotors,Nacionalitat espanyola,259
+2020,9,Sant Andreu,62,el Congrés i els Indians,Ciclomotors,Altres nacionalitats,40
+2020,9,Sant Andreu,62,el Congrés i els Indians,Furgonetes,Nacionalitat espanyola,246
+2020,9,Sant Andreu,62,el Congrés i els Indians,Furgonetes,Altres nacionalitats,53
+2020,9,Sant Andreu,62,el Congrés i els Indians,Camions,Nacionalitat espanyola,56
+2020,9,Sant Andreu,62,el Congrés i els Indians,Camions,Altres nacionalitats,10
+2020,9,Sant Andreu,62,el Congrés i els Indians,Altres vehicles,Nacionalitat espanyola,79
+2020,9,Sant Andreu,62,el Congrés i els Indians,Altres vehicles,Altres nacionalitats,5
+2020,9,Sant Andreu,63,Navas,Turismes,Nacionalitat espanyola,5989
+2020,9,Sant Andreu,63,Navas,Turismes,Altres nacionalitats,413
+2020,9,Sant Andreu,63,Navas,Motos,Nacionalitat espanyola,2267
+2020,9,Sant Andreu,63,Navas,Motos,Altres nacionalitats,215
+2020,9,Sant Andreu,63,Navas,Ciclomotors,Nacionalitat espanyola,426
+2020,9,Sant Andreu,63,Navas,Ciclomotors,Altres nacionalitats,50
+2020,9,Sant Andreu,63,Navas,Furgonetes,Nacionalitat espanyola,401
+2020,9,Sant Andreu,63,Navas,Furgonetes,Altres nacionalitats,53
+2020,9,Sant Andreu,63,Navas,Camions,Nacionalitat espanyola,92
+2020,9,Sant Andreu,63,Navas,Camions,Altres nacionalitats,12
+2020,9,Sant Andreu,63,Navas,Altres vehicles,Nacionalitat espanyola,142
+2020,9,Sant Andreu,63,Navas,Altres vehicles,Altres nacionalitats,2
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Turismes,Nacionalitat espanyola,9519
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Turismes,Altres nacionalitats,795
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Motos,Nacionalitat espanyola,4009
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Motos,Altres nacionalitats,479
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Ciclomotors,Nacionalitat espanyola,784
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Ciclomotors,Altres nacionalitats,112
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Furgonetes,Nacionalitat espanyola,702
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Furgonetes,Altres nacionalitats,127
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Camions,Nacionalitat espanyola,225
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Camions,Altres nacionalitats,27
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Altres vehicles,Nacionalitat espanyola,254
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Altres vehicles,Altres nacionalitats,5
+2020,10,Sant Martí,65,el Clot,Turismes,Nacionalitat espanyola,7221
+2020,10,Sant Martí,65,el Clot,Turismes,Altres nacionalitats,510
+2020,10,Sant Martí,65,el Clot,Motos,Nacionalitat espanyola,2677
+2020,10,Sant Martí,65,el Clot,Motos,Altres nacionalitats,268
+2020,10,Sant Martí,65,el Clot,Ciclomotors,Nacionalitat espanyola,581
+2020,10,Sant Martí,65,el Clot,Ciclomotors,Altres nacionalitats,59
+2020,10,Sant Martí,65,el Clot,Furgonetes,Nacionalitat espanyola,460
+2020,10,Sant Martí,65,el Clot,Furgonetes,Altres nacionalitats,101
+2020,10,Sant Martí,65,el Clot,Camions,Nacionalitat espanyola,127
+2020,10,Sant Martí,65,el Clot,Camions,Altres nacionalitats,35
+2020,10,Sant Martí,65,el Clot,Altres vehicles,Nacionalitat espanyola,149
+2020,10,Sant Martí,65,el Clot,Altres vehicles,Altres nacionalitats,13
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Turismes,Nacionalitat espanyola,4279
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Turismes,Altres nacionalitats,408
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Motos,Nacionalitat espanyola,1679
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Motos,Altres nacionalitats,219
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Ciclomotors,Nacionalitat espanyola,1915
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Ciclomotors,Altres nacionalitats,36
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Furgonetes,Nacionalitat espanyola,570
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Furgonetes,Altres nacionalitats,68
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Camions,Nacionalitat espanyola,316
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Camions,Altres nacionalitats,16
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Altres vehicles,Nacionalitat espanyola,244
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Altres vehicles,Altres nacionalitats,2
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Turismes,Nacionalitat espanyola,3146
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Turismes,Altres nacionalitats,382
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Motos,Nacionalitat espanyola,1341
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Motos,Altres nacionalitats,165
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Ciclomotors,Nacionalitat espanyola,181
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Ciclomotors,Altres nacionalitats,21
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Furgonetes,Nacionalitat espanyola,208
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Furgonetes,Altres nacionalitats,11
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Camions,Nacionalitat espanyola,68
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Camions,Altres nacionalitats,1
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Altres vehicles,Nacionalitat espanyola,78
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Altres vehicles,Altres nacionalitats,7
+2020,10,Sant Martí,68,el Poblenou,Turismes,Nacionalitat espanyola,8680
+2020,10,Sant Martí,68,el Poblenou,Turismes,Altres nacionalitats,954
+2020,10,Sant Martí,68,el Poblenou,Motos,Nacionalitat espanyola,3321
+2020,10,Sant Martí,68,el Poblenou,Motos,Altres nacionalitats,454
+2020,10,Sant Martí,68,el Poblenou,Ciclomotors,Nacionalitat espanyola,1977
+2020,10,Sant Martí,68,el Poblenou,Ciclomotors,Altres nacionalitats,64
+2020,10,Sant Martí,68,el Poblenou,Furgonetes,Nacionalitat espanyola,687
+2020,10,Sant Martí,68,el Poblenou,Furgonetes,Altres nacionalitats,117
+2020,10,Sant Martí,68,el Poblenou,Camions,Nacionalitat espanyola,225
+2020,10,Sant Martí,68,el Poblenou,Camions,Altres nacionalitats,32
+2020,10,Sant Martí,68,el Poblenou,Altres vehicles,Nacionalitat espanyola,240
+2020,10,Sant Martí,68,el Poblenou,Altres vehicles,Altres nacionalitats,21
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Turismes,Nacionalitat espanyola,3516
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Turismes,Altres nacionalitats,551
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Motos,Nacionalitat espanyola,1297
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Motos,Altres nacionalitats,210
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Ciclomotors,Nacionalitat espanyola,131
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Ciclomotors,Altres nacionalitats,15
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Furgonetes,Nacionalitat espanyola,191
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Furgonetes,Altres nacionalitats,33
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Camions,Nacionalitat espanyola,65
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Camions,Altres nacionalitats,18
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Altres vehicles,Nacionalitat espanyola,90
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Altres vehicles,Altres nacionalitats,6
+2020,10,Sant Martí,70,el Besòs i el Maresme,Turismes,Nacionalitat espanyola,4896
+2020,10,Sant Martí,70,el Besòs i el Maresme,Turismes,Altres nacionalitats,941
+2020,10,Sant Martí,70,el Besòs i el Maresme,Motos,Nacionalitat espanyola,1263
+2020,10,Sant Martí,70,el Besòs i el Maresme,Motos,Altres nacionalitats,215
+2020,10,Sant Martí,70,el Besòs i el Maresme,Ciclomotors,Nacionalitat espanyola,446
+2020,10,Sant Martí,70,el Besòs i el Maresme,Ciclomotors,Altres nacionalitats,88
+2020,10,Sant Martí,70,el Besòs i el Maresme,Furgonetes,Nacionalitat espanyola,414
+2020,10,Sant Martí,70,el Besòs i el Maresme,Furgonetes,Altres nacionalitats,136
+2020,10,Sant Martí,70,el Besòs i el Maresme,Camions,Nacionalitat espanyola,154
+2020,10,Sant Martí,70,el Besòs i el Maresme,Camions,Altres nacionalitats,39
+2020,10,Sant Martí,70,el Besòs i el Maresme,Altres vehicles,Nacionalitat espanyola,107
+2020,10,Sant Martí,70,el Besòs i el Maresme,Altres vehicles,Altres nacionalitats,7
+2020,10,Sant Martí,71,Provençals del Poblenou,Turismes,Nacionalitat espanyola,6030
+2020,10,Sant Martí,71,Provençals del Poblenou,Turismes,Altres nacionalitats,636
+2020,10,Sant Martí,71,Provençals del Poblenou,Motos,Nacionalitat espanyola,2043
+2020,10,Sant Martí,71,Provençals del Poblenou,Motos,Altres nacionalitats,212
+2020,10,Sant Martí,71,Provençals del Poblenou,Ciclomotors,Nacionalitat espanyola,430
+2020,10,Sant Martí,71,Provençals del Poblenou,Ciclomotors,Altres nacionalitats,32
+2020,10,Sant Martí,71,Provençals del Poblenou,Furgonetes,Nacionalitat espanyola,673
+2020,10,Sant Martí,71,Provençals del Poblenou,Furgonetes,Altres nacionalitats,116
+2020,10,Sant Martí,71,Provençals del Poblenou,Camions,Nacionalitat espanyola,206
+2020,10,Sant Martí,71,Provençals del Poblenou,Camions,Altres nacionalitats,41
+2020,10,Sant Martí,71,Provençals del Poblenou,Altres vehicles,Nacionalitat espanyola,433
+2020,10,Sant Martí,71,Provençals del Poblenou,Altres vehicles,Altres nacionalitats,3
+2020,10,Sant Martí,72,Sant Martí de Provençals,Turismes,Nacionalitat espanyola,7196
+2020,10,Sant Martí,72,Sant Martí de Provençals,Turismes,Altres nacionalitats,489
+2020,10,Sant Martí,72,Sant Martí de Provençals,Motos,Nacionalitat espanyola,2434
+2020,10,Sant Martí,72,Sant Martí de Provençals,Motos,Altres nacionalitats,201
+2020,10,Sant Martí,72,Sant Martí de Provençals,Ciclomotors,Nacionalitat espanyola,505
+2020,10,Sant Martí,72,Sant Martí de Provençals,Ciclomotors,Altres nacionalitats,42
+2020,10,Sant Martí,72,Sant Martí de Provençals,Furgonetes,Nacionalitat espanyola,464
+2020,10,Sant Martí,72,Sant Martí de Provençals,Furgonetes,Altres nacionalitats,78
+2020,10,Sant Martí,72,Sant Martí de Provençals,Camions,Nacionalitat espanyola,129
+2020,10,Sant Martí,72,Sant Martí de Provençals,Camions,Altres nacionalitats,15
+2020,10,Sant Martí,72,Sant Martí de Provençals,Altres vehicles,Nacionalitat espanyola,195
+2020,10,Sant Martí,72,Sant Martí de Provençals,Altres vehicles,Altres nacionalitats,2
+2020,10,Sant Martí,73,la Verneda i la Pau,Turismes,Nacionalitat espanyola,8312
+2020,10,Sant Martí,73,la Verneda i la Pau,Turismes,Altres nacionalitats,531
+2020,10,Sant Martí,73,la Verneda i la Pau,Motos,Nacionalitat espanyola,2287
+2020,10,Sant Martí,73,la Verneda i la Pau,Motos,Altres nacionalitats,142
+2020,10,Sant Martí,73,la Verneda i la Pau,Ciclomotors,Nacionalitat espanyola,629
+2020,10,Sant Martí,73,la Verneda i la Pau,Ciclomotors,Altres nacionalitats,58
+2020,10,Sant Martí,73,la Verneda i la Pau,Furgonetes,Nacionalitat espanyola,607
+2020,10,Sant Martí,73,la Verneda i la Pau,Furgonetes,Altres nacionalitats,82
+2020,10,Sant Martí,73,la Verneda i la Pau,Camions,Nacionalitat espanyola,211
+2020,10,Sant Martí,73,la Verneda i la Pau,Camions,Altres nacionalitats,22
+2020,10,Sant Martí,73,la Verneda i la Pau,Altres vehicles,Nacionalitat espanyola,161
+2020,10,Sant Martí,73,la Verneda i la Pau,Altres vehicles,Altres nacionalitats,2
+2020,NC,No consta,NC,No consta,Turismes,Nacionalitat espanyola,182
+2020,NC,No consta,NC,No consta,Turismes,Altres nacionalitats,15
+2020,NC,No consta,NC,No consta,Motos,Nacionalitat espanyola,97
+2020,NC,No consta,NC,No consta,Motos,Altres nacionalitats,8
+2020,NC,No consta,NC,No consta,Ciclomotors,Nacionalitat espanyola,67
+2020,NC,No consta,NC,No consta,Ciclomotors,Altres nacionalitats,3
+2020,NC,No consta,NC,No consta,Furgonetes,Nacionalitat espanyola,25
+2020,NC,No consta,NC,No consta,Furgonetes,Altres nacionalitats,2
+2020,NC,No consta,NC,No consta,Camions,Nacionalitat espanyola,11
+2020,NC,No consta,NC,No consta,Altres vehicles,Nacionalitat espanyola,5

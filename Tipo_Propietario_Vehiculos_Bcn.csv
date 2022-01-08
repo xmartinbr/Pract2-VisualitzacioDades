@@ -1,0 +1,986 @@
+Any,Codi_districte,Nom_districte,Codi_barri,Nom_barri,Tipus_Vehicles,Desc_tipus_propietari,Nombre
+2020,1,Ciutat Vella,1,el Raval,Turismes,Subjecte Jurí­dic,632
+2020,1,Ciutat Vella,1,el Raval,Turismes,Subjecte Físic,5165
+2020,1,Ciutat Vella,1,el Raval,Turismes,Altres,5
+2020,1,Ciutat Vella,1,el Raval,Motos,Subjecte Jurí­dic,219
+2020,1,Ciutat Vella,1,el Raval,Motos,Subjecte Físic,2890
+2020,1,Ciutat Vella,1,el Raval,Motos,Altres,1
+2020,1,Ciutat Vella,1,el Raval,Ciclomotors,Subjecte Jurí­dic,725
+2020,1,Ciutat Vella,1,el Raval,Ciclomotors,Subjecte Físic,1210
+2020,1,Ciutat Vella,1,el Raval,Furgonetes,Subjecte Jurí­dic,248
+2020,1,Ciutat Vella,1,el Raval,Furgonetes,Subjecte Físic,605
+2020,1,Ciutat Vella,1,el Raval,Camions,Subjecte Jurí­dic,173
+2020,1,Ciutat Vella,1,el Raval,Camions,Subjecte Físic,150
+2020,1,Ciutat Vella,1,el Raval,Altres vehicles,Subjecte Jurí­dic,111
+2020,1,Ciutat Vella,1,el Raval,Altres vehicles,Subjecte Físic,90
+2020,1,Ciutat Vella,2,el Barri Gòtic,Turismes,Subjecte Jurí­dic,2652
+2020,1,Ciutat Vella,2,el Barri Gòtic,Turismes,Subjecte Físic,2235
+2020,1,Ciutat Vella,2,el Barri Gòtic,Turismes,Altres,2
+2020,1,Ciutat Vella,2,el Barri Gòtic,Motos,Subjecte Jurí­dic,2308
+2020,1,Ciutat Vella,2,el Barri Gòtic,Motos,Subjecte Físic,1425
+2020,1,Ciutat Vella,2,el Barri Gòtic,Ciclomotors,Subjecte Jurí­dic,89
+2020,1,Ciutat Vella,2,el Barri Gòtic,Ciclomotors,Subjecte Físic,411
+2020,1,Ciutat Vella,2,el Barri Gòtic,Furgonetes,Subjecte Jurí­dic,1333
+2020,1,Ciutat Vella,2,el Barri Gòtic,Furgonetes,Subjecte Físic,213
+2020,1,Ciutat Vella,2,el Barri Gòtic,Camions,Subjecte Jurí­dic,857
+2020,1,Ciutat Vella,2,el Barri Gòtic,Camions,Subjecte Físic,34
+2020,1,Ciutat Vella,2,el Barri Gòtic,Altres vehicles,Subjecte Jurí­dic,321
+2020,1,Ciutat Vella,2,el Barri Gòtic,Altres vehicles,Subjecte Físic,46
+2020,1,Ciutat Vella,2,el Barri Gòtic,Altres vehicles,Altres,1
+2020,1,Ciutat Vella,3,la Barceloneta,Turismes,Subjecte Jurí­dic,167
+2020,1,Ciutat Vella,3,la Barceloneta,Turismes,Subjecte Físic,2934
+2020,1,Ciutat Vella,3,la Barceloneta,Turismes,Altres,3
+2020,1,Ciutat Vella,3,la Barceloneta,Motos,Subjecte Jurí­dic,235
+2020,1,Ciutat Vella,3,la Barceloneta,Motos,Subjecte Físic,1610
+2020,1,Ciutat Vella,3,la Barceloneta,Motos,Altres,1
+2020,1,Ciutat Vella,3,la Barceloneta,Ciclomotors,Subjecte Jurí­dic,7
+2020,1,Ciutat Vella,3,la Barceloneta,Ciclomotors,Subjecte Físic,478
+2020,1,Ciutat Vella,3,la Barceloneta,Furgonetes,Subjecte Jurí­dic,205
+2020,1,Ciutat Vella,3,la Barceloneta,Furgonetes,Subjecte Físic,233
+2020,1,Ciutat Vella,3,la Barceloneta,Camions,Subjecte Jurí­dic,49
+2020,1,Ciutat Vella,3,la Barceloneta,Camions,Subjecte Físic,44
+2020,1,Ciutat Vella,3,la Barceloneta,Altres vehicles,Subjecte Jurí­dic,28
+2020,1,Ciutat Vella,3,la Barceloneta,Altres vehicles,Subjecte Físic,66
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Turismes,Subjecte Jurí­dic,459
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Turismes,Subjecte Físic,3424
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Turismes,Altres,1
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Motos,Subjecte Jurí­dic,470
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Motos,Subjecte Físic,2167
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Motos,Altres,2
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Ciclomotors,Subjecte Jurí­dic,4358
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Ciclomotors,Subjecte Físic,627
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Ciclomotors,Altres,1
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Furgonetes,Subjecte Jurí­dic,219
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Furgonetes,Subjecte Físic,339
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Furgonetes,Altres,1
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Camions,Subjecte Jurí­dic,59
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Camions,Subjecte Físic,63
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Altres vehicles,Subjecte Jurí­dic,58
+2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Altres vehicles,Subjecte Físic,72
+2020,2,Eixample,5,el Fort Pienc,Turismes,Subjecte Jurí­dic,858
+2020,2,Eixample,5,el Fort Pienc,Turismes,Subjecte Físic,7938
+2020,2,Eixample,5,el Fort Pienc,Turismes,Altres,2
+2020,2,Eixample,5,el Fort Pienc,Motos,Subjecte Jurí­dic,227
+2020,2,Eixample,5,el Fort Pienc,Motos,Subjecte Físic,3815
+2020,2,Eixample,5,el Fort Pienc,Motos,Altres,2
+2020,2,Eixample,5,el Fort Pienc,Ciclomotors,Subjecte Jurí­dic,42
+2020,2,Eixample,5,el Fort Pienc,Ciclomotors,Subjecte Físic,732
+2020,2,Eixample,5,el Fort Pienc,Furgonetes,Subjecte Jurí­dic,313
+2020,2,Eixample,5,el Fort Pienc,Furgonetes,Subjecte Físic,381
+2020,2,Eixample,5,el Fort Pienc,Furgonetes,Altres,1
+2020,2,Eixample,5,el Fort Pienc,Camions,Subjecte Jurí­dic,154
+2020,2,Eixample,5,el Fort Pienc,Camions,Subjecte Físic,81
+2020,2,Eixample,5,el Fort Pienc,Altres vehicles,Subjecte Jurí­dic,222
+2020,2,Eixample,5,el Fort Pienc,Altres vehicles,Subjecte Físic,140
+2020,2,Eixample,6,la Sagrada Família,Turismes,Subjecte Jurí­dic,898
+2020,2,Eixample,6,la Sagrada Família,Turismes,Subjecte Físic,12590
+2020,2,Eixample,6,la Sagrada Família,Turismes,Altres,3
+2020,2,Eixample,6,la Sagrada Família,Motos,Subjecte Jurí­dic,455
+2020,2,Eixample,6,la Sagrada Família,Motos,Subjecte Físic,6095
+2020,2,Eixample,6,la Sagrada Família,Motos,Altres,1
+2020,2,Eixample,6,la Sagrada Família,Ciclomotors,Subjecte Jurí­dic,42
+2020,2,Eixample,6,la Sagrada Família,Ciclomotors,Subjecte Físic,1191
+2020,2,Eixample,6,la Sagrada Família,Furgonetes,Subjecte Jurí­dic,401
+2020,2,Eixample,6,la Sagrada Família,Furgonetes,Subjecte Físic,604
+2020,2,Eixample,6,la Sagrada Família,Furgonetes,Altres,1
+2020,2,Eixample,6,la Sagrada Família,Camions,Subjecte Jurí­dic,232
+2020,2,Eixample,6,la Sagrada Família,Camions,Subjecte Físic,124
+2020,2,Eixample,6,la Sagrada Família,Altres vehicles,Subjecte Jurí­dic,247
+2020,2,Eixample,6,la Sagrada Família,Altres vehicles,Subjecte Físic,202
+2020,2,Eixample,7,la Dreta de l'Eixample,Turismes,Subjecte Jurí­dic,5156
+2020,2,Eixample,7,la Dreta de l'Eixample,Turismes,Subjecte Físic,11225
+2020,2,Eixample,7,la Dreta de l'Eixample,Turismes,Altres,14
+2020,2,Eixample,7,la Dreta de l'Eixample,Motos,Subjecte Jurí­dic,1796
+2020,2,Eixample,7,la Dreta de l'Eixample,Motos,Subjecte Físic,6430
+2020,2,Eixample,7,la Dreta de l'Eixample,Motos,Altres,9
+2020,2,Eixample,7,la Dreta de l'Eixample,Ciclomotors,Subjecte Jurí­dic,852
+2020,2,Eixample,7,la Dreta de l'Eixample,Ciclomotors,Subjecte Físic,1009
+2020,2,Eixample,7,la Dreta de l'Eixample,Ciclomotors,Altres,1
+2020,2,Eixample,7,la Dreta de l'Eixample,Furgonetes,Subjecte Jurí­dic,1310
+2020,2,Eixample,7,la Dreta de l'Eixample,Furgonetes,Subjecte Físic,454
+2020,2,Eixample,7,la Dreta de l'Eixample,Furgonetes,Altres,1
+2020,2,Eixample,7,la Dreta de l'Eixample,Camions,Subjecte Jurí­dic,946
+2020,2,Eixample,7,la Dreta de l'Eixample,Camions,Subjecte Físic,118
+2020,2,Eixample,7,la Dreta de l'Eixample,Altres vehicles,Subjecte Jurí­dic,1405
+2020,2,Eixample,7,la Dreta de l'Eixample,Altres vehicles,Subjecte Físic,167
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Turismes,Subjecte Jurí­dic,2491
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Turismes,Subjecte Físic,9916
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Turismes,Altres,10
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Motos,Subjecte Jurí­dic,1214
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Motos,Subjecte Físic,6136
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Motos,Altres,4
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Ciclomotors,Subjecte Jurí­dic,727
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Ciclomotors,Subjecte Físic,981
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Furgonetes,Subjecte Jurí­dic,639
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Furgonetes,Subjecte Físic,390
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Camions,Subjecte Jurí­dic,320
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Camions,Subjecte Físic,78
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Altres vehicles,Subjecte Jurí­dic,174
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Altres vehicles,Subjecte Físic,126
+2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Altres vehicles,Altres,2
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Turismes,Subjecte Jurí­dic,1914
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Turismes,Subjecte Físic,15416
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Turismes,Altres,4
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Motos,Subjecte Jurí­dic,658
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Motos,Subjecte Físic,7733
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Motos,Altres,2
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Ciclomotors,Subjecte Jurí­dic,75
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Ciclomotors,Subjecte Físic,1349
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Furgonetes,Subjecte Jurí­dic,558
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Furgonetes,Subjecte Físic,593
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Furgonetes,Altres,2
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Camions,Subjecte Jurí­dic,216
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Camions,Subjecte Físic,107
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Camions,Altres,1
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Altres vehicles,Subjecte Jurí­dic,698
+2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Altres vehicles,Subjecte Físic,231
+2020,2,Eixample,10,Sant Antoni,Turismes,Subjecte Jurí­dic,895
+2020,2,Eixample,10,Sant Antoni,Turismes,Subjecte Físic,8580
+2020,2,Eixample,10,Sant Antoni,Turismes,Altres,2
+2020,2,Eixample,10,Sant Antoni,Motos,Subjecte Jurí­dic,314
+2020,2,Eixample,10,Sant Antoni,Motos,Subjecte Físic,4399
+2020,2,Eixample,10,Sant Antoni,Motos,Altres,2
+2020,2,Eixample,10,Sant Antoni,Ciclomotors,Subjecte Jurí­dic,39
+2020,2,Eixample,10,Sant Antoni,Ciclomotors,Subjecte Físic,828
+2020,2,Eixample,10,Sant Antoni,Furgonetes,Subjecte Jurí­dic,298
+2020,2,Eixample,10,Sant Antoni,Furgonetes,Subjecte Físic,461
+2020,2,Eixample,10,Sant Antoni,Furgonetes,Altres,1
+2020,2,Eixample,10,Sant Antoni,Camions,Subjecte Jurí­dic,166
+2020,2,Eixample,10,Sant Antoni,Camions,Subjecte Físic,78
+2020,2,Eixample,10,Sant Antoni,Altres vehicles,Subjecte Jurí­dic,120
+2020,2,Eixample,10,Sant Antoni,Altres vehicles,Subjecte Físic,166
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Turismes,Subjecte Jurí­dic,368
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Turismes,Subjecte Físic,7862
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Turismes,Altres,3
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Motos,Subjecte Jurí­dic,164
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Motos,Subjecte Físic,3864
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Motos,Altres,1
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Ciclomotors,Subjecte Jurí­dic,19
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Ciclomotors,Subjecte Físic,1066
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Furgonetes,Subjecte Jurí­dic,238
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Furgonetes,Subjecte Físic,706
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Furgonetes,Altres,2
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Camions,Subjecte Jurí­dic,91
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Camions,Subjecte Físic,118
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Altres vehicles,Subjecte Jurí­dic,87
+2020,3,Sants-Montjuïc,11,el Poble Sec - AEI Parc Montjuïc,Altres vehicles,Subjecte Físic,133
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Turismes,Subjecte Jurí­dic,2460
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Turismes,Subjecte Físic,528
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Turismes,Altres,1
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Motos,Subjecte Jurí­dic,168
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Motos,Subjecte Físic,165
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Ciclomotors,Subjecte Jurí­dic,590
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Ciclomotors,Subjecte Físic,62
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Furgonetes,Subjecte Jurí­dic,826
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Furgonetes,Subjecte Físic,47
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Camions,Subjecte Jurí­dic,2044
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Camions,Subjecte Físic,15
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Altres vehicles,Subjecte Jurí­dic,3489
+2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell - AEI Zona Franca,Altres vehicles,Subjecte Físic,11
+2020,3,Sants-Montjuïc,13,la Marina de Port,Turismes,Subjecte Jurí­dic,232
+2020,3,Sants-Montjuïc,13,la Marina de Port,Turismes,Subjecte Físic,8677
+2020,3,Sants-Montjuïc,13,la Marina de Port,Turismes,Altres,2
+2020,3,Sants-Montjuïc,13,la Marina de Port,Motos,Subjecte Jurí­dic,98
+2020,3,Sants-Montjuïc,13,la Marina de Port,Motos,Subjecte Físic,3424
+2020,3,Sants-Montjuïc,13,la Marina de Port,Ciclomotors,Subjecte Jurí­dic,9
+2020,3,Sants-Montjuïc,13,la Marina de Port,Ciclomotors,Subjecte Físic,783
+2020,3,Sants-Montjuïc,13,la Marina de Port,Furgonetes,Subjecte Jurí­dic,134
+2020,3,Sants-Montjuïc,13,la Marina de Port,Furgonetes,Subjecte Físic,434
+2020,3,Sants-Montjuïc,13,la Marina de Port,Camions,Subjecte Jurí­dic,181
+2020,3,Sants-Montjuïc,13,la Marina de Port,Camions,Subjecte Físic,158
+2020,3,Sants-Montjuïc,13,la Marina de Port,Altres vehicles,Subjecte Jurí­dic,65
+2020,3,Sants-Montjuïc,13,la Marina de Port,Altres vehicles,Subjecte Físic,164
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Turismes,Subjecte Jurí­dic,153
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Turismes,Subjecte Físic,2799
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Motos,Subjecte Jurí­dic,93
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Motos,Subjecte Físic,1294
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Ciclomotors,Subjecte Jurí­dic,13
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Ciclomotors,Subjecte Físic,278
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Furgonetes,Subjecte Jurí­dic,62
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Furgonetes,Subjecte Físic,139
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Camions,Subjecte Jurí­dic,25
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Camions,Subjecte Físic,25
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Altres vehicles,Subjecte Jurí­dic,29
+2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Altres vehicles,Subjecte Físic,49
+2020,3,Sants-Montjuïc,15,Hostafrancs,Turismes,Subjecte Jurí­dic,247
+2020,3,Sants-Montjuïc,15,Hostafrancs,Turismes,Subjecte Físic,3793
+2020,3,Sants-Montjuïc,15,Hostafrancs,Turismes,Altres,1
+2020,3,Sants-Montjuïc,15,Hostafrancs,Motos,Subjecte Jurí­dic,105
+2020,3,Sants-Montjuïc,15,Hostafrancs,Motos,Subjecte Físic,1579
+2020,3,Sants-Montjuïc,15,Hostafrancs,Ciclomotors,Subjecte Jurí­dic,13
+2020,3,Sants-Montjuïc,15,Hostafrancs,Ciclomotors,Subjecte Físic,372
+2020,3,Sants-Montjuïc,15,Hostafrancs,Furgonetes,Subjecte Jurí­dic,144
+2020,3,Sants-Montjuïc,15,Hostafrancs,Furgonetes,Subjecte Físic,277
+2020,3,Sants-Montjuïc,15,Hostafrancs,Camions,Subjecte Jurí­dic,64
+2020,3,Sants-Montjuïc,15,Hostafrancs,Camions,Subjecte Físic,69
+2020,3,Sants-Montjuïc,15,Hostafrancs,Altres vehicles,Subjecte Jurí­dic,47
+2020,3,Sants-Montjuïc,15,Hostafrancs,Altres vehicles,Subjecte Físic,72
+2020,3,Sants-Montjuïc,16,la Bordeta,Turismes,Subjecte Jurí­dic,217
+2020,3,Sants-Montjuïc,16,la Bordeta,Turismes,Subjecte Físic,5193
+2020,3,Sants-Montjuïc,16,la Bordeta,Motos,Subjecte Jurí­dic,72
+2020,3,Sants-Montjuïc,16,la Bordeta,Motos,Subjecte Físic,2117
+2020,3,Sants-Montjuïc,16,la Bordeta,Motos,Altres,1
+2020,3,Sants-Montjuïc,16,la Bordeta,Ciclomotors,Subjecte Jurí­dic,12
+2020,3,Sants-Montjuïc,16,la Bordeta,Ciclomotors,Subjecte Físic,412
+2020,3,Sants-Montjuïc,16,la Bordeta,Furgonetes,Subjecte Jurí­dic,95
+2020,3,Sants-Montjuïc,16,la Bordeta,Furgonetes,Subjecte Físic,253
+2020,3,Sants-Montjuïc,16,la Bordeta,Camions,Subjecte Jurí­dic,32
+2020,3,Sants-Montjuïc,16,la Bordeta,Camions,Subjecte Físic,80
+2020,3,Sants-Montjuïc,16,la Bordeta,Altres vehicles,Subjecte Jurí­dic,24
+2020,3,Sants-Montjuïc,16,la Bordeta,Altres vehicles,Subjecte Físic,87
+2020,3,Sants-Montjuïc,17,Sants - Badal,Turismes,Subjecte Jurí­dic,228
+2020,3,Sants-Montjuïc,17,Sants - Badal,Turismes,Subjecte Físic,6221
+2020,3,Sants-Montjuïc,17,Sants - Badal,Turismes,Altres,2
+2020,3,Sants-Montjuïc,17,Sants - Badal,Motos,Subjecte Jurí­dic,97
+2020,3,Sants-Montjuïc,17,Sants - Badal,Motos,Subjecte Físic,2541
+2020,3,Sants-Montjuïc,17,Sants - Badal,Ciclomotors,Subjecte Jurí­dic,14
+2020,3,Sants-Montjuïc,17,Sants - Badal,Ciclomotors,Subjecte Físic,583
+2020,3,Sants-Montjuïc,17,Sants - Badal,Furgonetes,Subjecte Jurí­dic,145
+2020,3,Sants-Montjuïc,17,Sants - Badal,Furgonetes,Subjecte Físic,348
+2020,3,Sants-Montjuïc,17,Sants - Badal,Furgonetes,Altres,1
+2020,3,Sants-Montjuïc,17,Sants - Badal,Camions,Subjecte Jurí­dic,46
+2020,3,Sants-Montjuïc,17,Sants - Badal,Camions,Subjecte Físic,73
+2020,3,Sants-Montjuïc,17,Sants - Badal,Camions,Altres,1
+2020,3,Sants-Montjuïc,17,Sants - Badal,Altres vehicles,Subjecte Jurí­dic,54
+2020,3,Sants-Montjuïc,17,Sants - Badal,Altres vehicles,Subjecte Físic,100
+2020,3,Sants-Montjuïc,18,Sants,Turismes,Subjecte Jurí­dic,524
+2020,3,Sants-Montjuïc,18,Sants,Turismes,Subjecte Físic,9979
+2020,3,Sants-Montjuïc,18,Sants,Turismes,Altres,4
+2020,3,Sants-Montjuïc,18,Sants,Motos,Subjecte Jurí­dic,315
+2020,3,Sants-Montjuïc,18,Sants,Motos,Subjecte Físic,4599
+2020,3,Sants-Montjuïc,18,Sants,Motos,Altres,1
+2020,3,Sants-Montjuïc,18,Sants,Ciclomotors,Subjecte Jurí­dic,25
+2020,3,Sants-Montjuïc,18,Sants,Ciclomotors,Subjecte Físic,1057
+2020,3,Sants-Montjuïc,18,Sants,Furgonetes,Subjecte Jurí­dic,286
+2020,3,Sants-Montjuïc,18,Sants,Furgonetes,Subjecte Físic,550
+2020,3,Sants-Montjuïc,18,Sants,Furgonetes,Altres,1
+2020,3,Sants-Montjuïc,18,Sants,Camions,Subjecte Jurí­dic,121
+2020,3,Sants-Montjuïc,18,Sants,Camions,Subjecte Físic,123
+2020,3,Sants-Montjuïc,18,Sants,Altres vehicles,Subjecte Jurí­dic,51
+2020,3,Sants-Montjuïc,18,Sants,Altres vehicles,Subjecte Físic,162
+2020,4,Les Corts,19,les Corts,Turismes,Subjecte Jurí­dic,2404
+2020,4,Les Corts,19,les Corts,Turismes,Subjecte Físic,14669
+2020,4,Les Corts,19,les Corts,Turismes,Altres,3
+2020,4,Les Corts,19,les Corts,Motos,Subjecte Jurí­dic,608
+2020,4,Les Corts,19,les Corts,Motos,Subjecte Físic,6884
+2020,4,Les Corts,19,les Corts,Ciclomotors,Subjecte Jurí­dic,602
+2020,4,Les Corts,19,les Corts,Ciclomotors,Subjecte Físic,1018
+2020,4,Les Corts,19,les Corts,Furgonetes,Subjecte Jurí­dic,587
+2020,4,Les Corts,19,les Corts,Furgonetes,Subjecte Físic,450
+2020,4,Les Corts,19,les Corts,Furgonetes,Altres,3
+2020,4,Les Corts,19,les Corts,Camions,Subjecte Jurí­dic,265
+2020,4,Les Corts,19,les Corts,Camions,Subjecte Físic,110
+2020,4,Les Corts,19,les Corts,Camions,Altres,3
+2020,4,Les Corts,19,les Corts,Altres vehicles,Subjecte Jurí­dic,173
+2020,4,Les Corts,19,les Corts,Altres vehicles,Subjecte Físic,177
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Turismes,Subjecte Jurí­dic,606
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Turismes,Subjecte Físic,7704
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Turismes,Altres,2
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Motos,Subjecte Jurí­dic,198
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Motos,Subjecte Físic,3443
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Ciclomotors,Subjecte Jurí­dic,34
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Ciclomotors,Subjecte Físic,600
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Furgonetes,Subjecte Jurí­dic,221
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Furgonetes,Subjecte Físic,257
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Camions,Subjecte Jurí­dic,138
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Camions,Subjecte Físic,68
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Altres vehicles,Subjecte Jurí­dic,120
+2020,4,Les Corts,20,la Maternitat i Sant Ramon,Altres vehicles,Subjecte Físic,99
+2020,4,Les Corts,21,Pedralbes,Turismes,Subjecte Jurí­dic,591
+2020,4,Les Corts,21,Pedralbes,Turismes,Subjecte Físic,5410
+2020,4,Les Corts,21,Pedralbes,Turismes,Altres,4
+2020,4,Les Corts,21,Pedralbes,Motos,Subjecte Jurí­dic,156
+2020,4,Les Corts,21,Pedralbes,Motos,Subjecte Físic,2736
+2020,4,Les Corts,21,Pedralbes,Motos,Altres,3
+2020,4,Les Corts,21,Pedralbes,Ciclomotors,Subjecte Jurí­dic,11
+2020,4,Les Corts,21,Pedralbes,Ciclomotors,Subjecte Físic,350
+2020,4,Les Corts,21,Pedralbes,Ciclomotors,Altres,1
+2020,4,Les Corts,21,Pedralbes,Furgonetes,Subjecte Jurí­dic,108
+2020,4,Les Corts,21,Pedralbes,Furgonetes,Subjecte Físic,140
+2020,4,Les Corts,21,Pedralbes,Furgonetes,Altres,1
+2020,4,Les Corts,21,Pedralbes,Camions,Subjecte Jurí­dic,58
+2020,4,Les Corts,21,Pedralbes,Camions,Subjecte Físic,40
+2020,4,Les Corts,21,Pedralbes,Altres vehicles,Subjecte Jurí­dic,53
+2020,4,Les Corts,21,Pedralbes,Altres vehicles,Subjecte Físic,79
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Turismes,Subjecte Jurí­dic,92
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Turismes,Subjecte Físic,1851
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Motos,Subjecte Jurí­dic,32
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Motos,Subjecte Físic,922
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Ciclomotors,Subjecte Jurí­dic,1
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Ciclomotors,Subjecte Físic,125
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Furgonetes,Subjecte Jurí­dic,34
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Furgonetes,Subjecte Físic,138
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Camions,Subjecte Jurí­dic,26
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Camions,Subjecte Físic,23
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Altres vehicles,Subjecte Jurí­dic,13
+2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Altres vehicles,Subjecte Físic,39
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Turismes,Subjecte Jurí­dic,974
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Turismes,Subjecte Físic,8544
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Turismes,Altres,4
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Motos,Subjecte Jurí­dic,266
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Motos,Subjecte Físic,5378
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Motos,Altres,3
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Ciclomotors,Subjecte Jurí­dic,28
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Ciclomotors,Subjecte Físic,623
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Furgonetes,Subjecte Jurí­dic,246
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Furgonetes,Subjecte Físic,274
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Furgonetes,Altres,1
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Camions,Subjecte Jurí­dic,102
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Camions,Subjecte Físic,44
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Camions,Altres,1
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Altres vehicles,Subjecte Jurí­dic,75
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Altres vehicles,Subjecte Físic,122
+2020,5,Sarrià-Sant Gervasi,23,Sarrià,Altres vehicles,Altres,1
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Turismes,Subjecte Jurí­dic,753
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Turismes,Subjecte Físic,6629
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Turismes,Altres,2
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Motos,Subjecte Jurí­dic,195
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Motos,Subjecte Físic,4288
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Motos,Altres,1
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Ciclomotors,Subjecte Jurí­dic,19
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Ciclomotors,Subjecte Físic,468
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Furgonetes,Subjecte Jurí­dic,114
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Furgonetes,Subjecte Físic,163
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Camions,Subjecte Jurí­dic,49
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Camions,Subjecte Físic,42
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Altres vehicles,Subjecte Jurí­dic,32
+2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Altres vehicles,Subjecte Físic,78
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Turismes,Subjecte Jurí­dic,1183
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Turismes,Subjecte Físic,9058
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Turismes,Altres,1
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Motos,Subjecte Jurí­dic,745
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Motos,Subjecte Físic,6014
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Motos,Altres,3
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Ciclomotors,Subjecte Jurí­dic,36
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Ciclomotors,Subjecte Físic,781
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Furgonetes,Subjecte Jurí­dic,201
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Furgonetes,Subjecte Físic,246
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Camions,Subjecte Jurí­dic,60
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Camions,Subjecte Físic,67
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Altres vehicles,Subjecte Jurí­dic,43
+2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Altres vehicles,Subjecte Físic,125
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Turismes,Subjecte Jurí­dic,4421
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Turismes,Subjecte Físic,16343
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Turismes,Altres,15
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Motos,Subjecte Jurí­dic,1819
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Motos,Subjecte Físic,10877
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Motos,Altres,6
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Ciclomotors,Subjecte Jurí­dic,173
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Ciclomotors,Subjecte Físic,1280
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Ciclomotors,Altres,2
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Furgonetes,Subjecte Jurí­dic,760
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Furgonetes,Subjecte Físic,501
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Furgonetes,Altres,3
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Camions,Subjecte Jurí­dic,376
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Camions,Subjecte Físic,135
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Camions,Altres,1
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Altres vehicles,Subjecte Jurí­dic,361
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Altres vehicles,Subjecte Físic,208
+2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Altres vehicles,Altres,1
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Turismes,Subjecte Jurí­dic,742
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Turismes,Subjecte Físic,8857
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Turismes,Altres,5
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Motos,Subjecte Jurí­dic,366
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Motos,Subjecte Físic,6018
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Ciclomotors,Subjecte Jurí­dic,37
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Ciclomotors,Subjecte Físic,784
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Furgonetes,Subjecte Jurí­dic,188
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Furgonetes,Subjecte Físic,335
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Camions,Subjecte Jurí­dic,38
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Camions,Subjecte Físic,60
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Camions,Altres,1
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Altres vehicles,Subjecte Jurí­dic,34
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Altres vehicles,Subjecte Físic,108
+2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Altres vehicles,Altres,2
+2020,6,Gràcia,28,Vallcarca i els Penitents,Turismes,Subjecte Jurí­dic,318
+2020,6,Gràcia,28,Vallcarca i els Penitents,Turismes,Subjecte Físic,5087
+2020,6,Gràcia,28,Vallcarca i els Penitents,Motos,Subjecte Jurí­dic,135
+2020,6,Gràcia,28,Vallcarca i els Penitents,Motos,Subjecte Físic,2809
+2020,6,Gràcia,28,Vallcarca i els Penitents,Ciclomotors,Subjecte Jurí­dic,13
+2020,6,Gràcia,28,Vallcarca i els Penitents,Ciclomotors,Subjecte Físic,459
+2020,6,Gràcia,28,Vallcarca i els Penitents,Furgonetes,Subjecte Jurí­dic,83
+2020,6,Gràcia,28,Vallcarca i els Penitents,Furgonetes,Subjecte Físic,225
+2020,6,Gràcia,28,Vallcarca i els Penitents,Camions,Subjecte Jurí­dic,21
+2020,6,Gràcia,28,Vallcarca i els Penitents,Camions,Subjecte Físic,49
+2020,6,Gràcia,28,Vallcarca i els Penitents,Altres vehicles,Subjecte Jurí­dic,14
+2020,6,Gràcia,28,Vallcarca i els Penitents,Altres vehicles,Subjecte Físic,84
+2020,6,Gràcia,29,el Coll,Turismes,Subjecte Jurí­dic,74
+2020,6,Gràcia,29,el Coll,Turismes,Subjecte Físic,2011
+2020,6,Gràcia,29,el Coll,Motos,Subjecte Jurí­dic,26
+2020,6,Gràcia,29,el Coll,Motos,Subjecte Físic,1251
+2020,6,Gràcia,29,el Coll,Ciclomotors,Subjecte Jurí­dic,1
+2020,6,Gràcia,29,el Coll,Ciclomotors,Subjecte Físic,257
+2020,6,Gràcia,29,el Coll,Furgonetes,Subjecte Jurí­dic,30
+2020,6,Gràcia,29,el Coll,Furgonetes,Subjecte Físic,108
+2020,6,Gràcia,29,el Coll,Camions,Subjecte Jurí­dic,7
+2020,6,Gràcia,29,el Coll,Camions,Subjecte Físic,24
+2020,6,Gràcia,29,el Coll,Altres vehicles,Subjecte Físic,33
+2020,6,Gràcia,30,la Salut,Turismes,Subjecte Jurí­dic,175
+2020,6,Gràcia,30,la Salut,Turismes,Subjecte Físic,4020
+2020,6,Gràcia,30,la Salut,Motos,Subjecte Jurí­dic,65
+2020,6,Gràcia,30,la Salut,Motos,Subjecte Físic,2232
+2020,6,Gràcia,30,la Salut,Ciclomotors,Subjecte Jurí­dic,5
+2020,6,Gràcia,30,la Salut,Ciclomotors,Subjecte Físic,390
+2020,6,Gràcia,30,la Salut,Furgonetes,Subjecte Jurí­dic,62
+2020,6,Gràcia,30,la Salut,Furgonetes,Subjecte Físic,178
+2020,6,Gràcia,30,la Salut,Camions,Subjecte Jurí­dic,13
+2020,6,Gràcia,30,la Salut,Camions,Subjecte Físic,30
+2020,6,Gràcia,30,la Salut,Altres vehicles,Subjecte Jurí­dic,13
+2020,6,Gràcia,30,la Salut,Altres vehicles,Subjecte Físic,67
+2020,6,Gràcia,31,la Vila de Gràcia,Turismes,Subjecte Jurí­dic,1419
+2020,6,Gràcia,31,la Vila de Gràcia,Turismes,Subjecte Físic,10699
+2020,6,Gràcia,31,la Vila de Gràcia,Turismes,Altres,5
+2020,6,Gràcia,31,la Vila de Gràcia,Motos,Subjecte Jurí­dic,565
+2020,6,Gràcia,31,la Vila de Gràcia,Motos,Subjecte Físic,6764
+2020,6,Gràcia,31,la Vila de Gràcia,Motos,Altres,2
+2020,6,Gràcia,31,la Vila de Gràcia,Ciclomotors,Subjecte Jurí­dic,58
+2020,6,Gràcia,31,la Vila de Gràcia,Ciclomotors,Subjecte Físic,1300
+2020,6,Gràcia,31,la Vila de Gràcia,Furgonetes,Subjecte Jurí­dic,340
+2020,6,Gràcia,31,la Vila de Gràcia,Furgonetes,Subjecte Físic,723
+2020,6,Gràcia,31,la Vila de Gràcia,Furgonetes,Altres,1
+2020,6,Gràcia,31,la Vila de Gràcia,Camions,Subjecte Jurí­dic,351
+2020,6,Gràcia,31,la Vila de Gràcia,Camions,Subjecte Físic,104
+2020,6,Gràcia,31,la Vila de Gràcia,Altres vehicles,Subjecte Jurí­dic,132
+2020,6,Gràcia,31,la Vila de Gràcia,Altres vehicles,Subjecte Físic,221
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Turismes,Subjecte Jurí­dic,588
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Turismes,Subjecte Físic,9312
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Turismes,Altres,1
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Motos,Subjecte Jurí­dic,288
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Motos,Subjecte Físic,4907
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Ciclomotors,Subjecte Jurí­dic,67
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Ciclomotors,Subjecte Físic,943
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Furgonetes,Subjecte Jurí­dic,248
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Furgonetes,Subjecte Físic,399
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Camions,Subjecte Jurí­dic,76
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Camions,Subjecte Físic,63
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Altres vehicles,Subjecte Jurí­dic,39
+2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Altres vehicles,Subjecte Físic,158
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Turismes,Subjecte Jurí­dic,277
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Turismes,Subjecte Físic,6763
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Motos,Subjecte Jurí­dic,112
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Motos,Subjecte Físic,3349
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Ciclomotors,Subjecte Jurí­dic,8
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Ciclomotors,Subjecte Físic,659
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Furgonetes,Subjecte Jurí­dic,146
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Furgonetes,Subjecte Físic,346
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Furgonetes,Altres,1
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Camions,Subjecte Jurí­dic,52
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Camions,Subjecte Físic,62
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Altres vehicles,Subjecte Jurí­dic,28
+2020,7,Horta-Guinardó,33,el Baix Guinardó,Altres vehicles,Subjecte Físic,124
+2020,7,Horta-Guinardó,34,Can Baró,Turismes,Subjecte Jurí­dic,111
+2020,7,Horta-Guinardó,34,Can Baró,Turismes,Subjecte Físic,2609
+2020,7,Horta-Guinardó,34,Can Baró,Motos,Subjecte Jurí­dic,26
+2020,7,Horta-Guinardó,34,Can Baró,Motos,Subjecte Físic,1566
+2020,7,Horta-Guinardó,34,Can Baró,Ciclomotors,Subjecte Jurí­dic,4
+2020,7,Horta-Guinardó,34,Can Baró,Ciclomotors,Subjecte Físic,375
+2020,7,Horta-Guinardó,34,Can Baró,Furgonetes,Subjecte Jurí­dic,71
+2020,7,Horta-Guinardó,34,Can Baró,Furgonetes,Subjecte Físic,138
+2020,7,Horta-Guinardó,34,Can Baró,Camions,Subjecte Jurí­dic,27
+2020,7,Horta-Guinardó,34,Can Baró,Camions,Subjecte Físic,30
+2020,7,Horta-Guinardó,34,Can Baró,Altres vehicles,Subjecte Jurí­dic,5
+2020,7,Horta-Guinardó,34,Can Baró,Altres vehicles,Subjecte Físic,55
+2020,7,Horta-Guinardó,35,el Guinardó,Turismes,Subjecte Jurí­dic,442
+2020,7,Horta-Guinardó,35,el Guinardó,Turismes,Subjecte Físic,9975
+2020,7,Horta-Guinardó,35,el Guinardó,Turismes,Altres,1
+2020,7,Horta-Guinardó,35,el Guinardó,Motos,Subjecte Jurí­dic,167
+2020,7,Horta-Guinardó,35,el Guinardó,Motos,Subjecte Físic,4694
+2020,7,Horta-Guinardó,35,el Guinardó,Ciclomotors,Subjecte Jurí­dic,19
+2020,7,Horta-Guinardó,35,el Guinardó,Ciclomotors,Subjecte Físic,918
+2020,7,Horta-Guinardó,35,el Guinardó,Furgonetes,Subjecte Jurí­dic,416
+2020,7,Horta-Guinardó,35,el Guinardó,Furgonetes,Subjecte Físic,517
+2020,7,Horta-Guinardó,35,el Guinardó,Furgonetes,Altres,2
+2020,7,Horta-Guinardó,35,el Guinardó,Camions,Subjecte Jurí­dic,260
+2020,7,Horta-Guinardó,35,el Guinardó,Camions,Subjecte Físic,98
+2020,7,Horta-Guinardó,35,el Guinardó,Altres vehicles,Subjecte Jurí­dic,125
+2020,7,Horta-Guinardó,35,el Guinardó,Altres vehicles,Subjecte Físic,184
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Turismes,Subjecte Jurí­dic,124
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Turismes,Subjecte Físic,3313
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Turismes,Altres,1
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Motos,Subjecte Jurí­dic,39
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Motos,Subjecte Físic,1819
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Ciclomotors,Subjecte Jurí­dic,4
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Ciclomotors,Subjecte Físic,271
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Furgonetes,Subjecte Jurí­dic,49
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Furgonetes,Subjecte Físic,181
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Camions,Subjecte Jurí­dic,30
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Camions,Subjecte Físic,40
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Altres vehicles,Subjecte Jurí­dic,25
+2020,7,Horta-Guinardó,36,la Font d'en Fargues,Altres vehicles,Subjecte Físic,80
+2020,7,Horta-Guinardó,37,el Carmel,Turismes,Subjecte Jurí­dic,145
+2020,7,Horta-Guinardó,37,el Carmel,Turismes,Subjecte Físic,8475
+2020,7,Horta-Guinardó,37,el Carmel,Turismes,Altres,2
+2020,7,Horta-Guinardó,37,el Carmel,Motos,Subjecte Jurí­dic,59
+2020,7,Horta-Guinardó,37,el Carmel,Motos,Subjecte Físic,4292
+2020,7,Horta-Guinardó,37,el Carmel,Ciclomotors,Subjecte Jurí­dic,8
+2020,7,Horta-Guinardó,37,el Carmel,Ciclomotors,Subjecte Físic,1127
+2020,7,Horta-Guinardó,37,el Carmel,Furgonetes,Subjecte Jurí­dic,117
+2020,7,Horta-Guinardó,37,el Carmel,Furgonetes,Subjecte Físic,561
+2020,7,Horta-Guinardó,37,el Carmel,Camions,Subjecte Jurí­dic,60
+2020,7,Horta-Guinardó,37,el Carmel,Camions,Subjecte Físic,134
+2020,7,Horta-Guinardó,37,el Carmel,Altres vehicles,Subjecte Jurí­dic,17
+2020,7,Horta-Guinardó,37,el Carmel,Altres vehicles,Subjecte Físic,140
+2020,7,Horta-Guinardó,38,la Teixonera,Turismes,Subjecte Jurí­dic,96
+2020,7,Horta-Guinardó,38,la Teixonera,Turismes,Subjecte Físic,3340
+2020,7,Horta-Guinardó,38,la Teixonera,Motos,Subjecte Jurí­dic,52
+2020,7,Horta-Guinardó,38,la Teixonera,Motos,Subjecte Físic,1638
+2020,7,Horta-Guinardó,38,la Teixonera,Ciclomotors,Subjecte Jurí­dic,2
+2020,7,Horta-Guinardó,38,la Teixonera,Ciclomotors,Subjecte Físic,375
+2020,7,Horta-Guinardó,38,la Teixonera,Furgonetes,Subjecte Jurí­dic,66
+2020,7,Horta-Guinardó,38,la Teixonera,Furgonetes,Subjecte Físic,224
+2020,7,Horta-Guinardó,38,la Teixonera,Camions,Subjecte Jurí­dic,30
+2020,7,Horta-Guinardó,38,la Teixonera,Camions,Subjecte Físic,56
+2020,7,Horta-Guinardó,38,la Teixonera,Altres vehicles,Subjecte Jurí­dic,3
+2020,7,Horta-Guinardó,38,la Teixonera,Altres vehicles,Subjecte Físic,51
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Turismes,Subjecte Jurí­dic,63
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Turismes,Subjecte Físic,2146
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Motos,Subjecte Jurí­dic,16
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Motos,Subjecte Físic,858
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Ciclomotors,Subjecte Jurí­dic,2
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Ciclomotors,Subjecte Físic,208
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Furgonetes,Subjecte Jurí­dic,35
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Furgonetes,Subjecte Físic,157
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Camions,Subjecte Jurí­dic,9
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Camions,Subjecte Físic,26
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Altres vehicles,Subjecte Jurí­dic,4
+2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Altres vehicles,Subjecte Físic,32
+2020,7,Horta-Guinardó,40,Montbau,Turismes,Subjecte Jurí­dic,28
+2020,7,Horta-Guinardó,40,Montbau,Turismes,Subjecte Físic,1569
+2020,7,Horta-Guinardó,40,Montbau,Motos,Subjecte Jurí­dic,8
+2020,7,Horta-Guinardó,40,Montbau,Motos,Subjecte Físic,545
+2020,7,Horta-Guinardó,40,Montbau,Ciclomotors,Subjecte Jurí­dic,1
+2020,7,Horta-Guinardó,40,Montbau,Ciclomotors,Subjecte Físic,89
+2020,7,Horta-Guinardó,40,Montbau,Furgonetes,Subjecte Jurí­dic,17
+2020,7,Horta-Guinardó,40,Montbau,Furgonetes,Subjecte Físic,69
+2020,7,Horta-Guinardó,40,Montbau,Camions,Subjecte Jurí­dic,7
+2020,7,Horta-Guinardó,40,Montbau,Camions,Subjecte Físic,15
+2020,7,Horta-Guinardó,40,Montbau,Altres vehicles,Subjecte Jurí­dic,4
+2020,7,Horta-Guinardó,40,Montbau,Altres vehicles,Subjecte Físic,26
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Turismes,Subjecte Jurí­dic,130
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Turismes,Subjecte Físic,1942
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Motos,Subjecte Jurí­dic,24
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Motos,Subjecte Físic,617
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Ciclomotors,Subjecte Jurí­dic,5
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Ciclomotors,Subjecte Físic,97
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Furgonetes,Subjecte Jurí­dic,70
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Furgonetes,Subjecte Físic,71
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Camions,Subjecte Jurí­dic,6
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Camions,Subjecte Físic,19
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Altres vehicles,Subjecte Jurí­dic,2
+2020,7,Horta-Guinardó,41,la Vall d'Hebron,Altres vehicles,Subjecte Físic,30
+2020,7,Horta-Guinardó,42,la Clota,Turismes,Subjecte Jurí­dic,18
+2020,7,Horta-Guinardó,42,la Clota,Turismes,Subjecte Físic,174
+2020,7,Horta-Guinardó,42,la Clota,Motos,Subjecte Jurí­dic,3
+2020,7,Horta-Guinardó,42,la Clota,Motos,Subjecte Físic,100
+2020,7,Horta-Guinardó,42,la Clota,Ciclomotors,Subjecte Físic,27
+2020,7,Horta-Guinardó,42,la Clota,Furgonetes,Subjecte Jurí­dic,28
+2020,7,Horta-Guinardó,42,la Clota,Furgonetes,Subjecte Físic,24
+2020,7,Horta-Guinardó,42,la Clota,Camions,Subjecte Jurí­dic,7
+2020,7,Horta-Guinardó,42,la Clota,Altres vehicles,Subjecte Jurí­dic,1
+2020,7,Horta-Guinardó,42,la Clota,Altres vehicles,Subjecte Físic,4
+2020,7,Horta-Guinardó,43,Horta,Turismes,Subjecte Jurí­dic,260
+2020,7,Horta-Guinardó,43,Horta,Turismes,Subjecte Físic,7747
+2020,7,Horta-Guinardó,43,Horta,Motos,Subjecte Jurí­dic,88
+2020,7,Horta-Guinardó,43,Horta,Motos,Subjecte Físic,3483
+2020,7,Horta-Guinardó,43,Horta,Ciclomotors,Subjecte Jurí­dic,9
+2020,7,Horta-Guinardó,43,Horta,Ciclomotors,Subjecte Físic,625
+2020,7,Horta-Guinardó,43,Horta,Furgonetes,Subjecte Jurí­dic,165
+2020,7,Horta-Guinardó,43,Horta,Furgonetes,Subjecte Físic,383
+2020,7,Horta-Guinardó,43,Horta,Camions,Subjecte Jurí­dic,55
+2020,7,Horta-Guinardó,43,Horta,Camions,Subjecte Físic,74
+2020,7,Horta-Guinardó,43,Horta,Altres vehicles,Subjecte Jurí­dic,23
+2020,7,Horta-Guinardó,43,Horta,Altres vehicles,Subjecte Físic,144
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Turismes,Subjecte Jurí­dic,254
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Turismes,Subjecte Físic,6742
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Turismes,Altres,2
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Motos,Subjecte Jurí­dic,111
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Motos,Subjecte Físic,2574
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Ciclomotors,Subjecte Jurí­dic,16
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Ciclomotors,Subjecte Físic,524
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Furgonetes,Subjecte Jurí­dic,221
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Furgonetes,Subjecte Físic,396
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Camions,Subjecte Jurí­dic,78
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Camions,Subjecte Físic,81
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Altres vehicles,Subjecte Jurí­dic,41
+2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Altres vehicles,Subjecte Físic,121
+2020,8,Nou Barris,45,Porta,Turismes,Subjecte Jurí­dic,218
+2020,8,Nou Barris,45,Porta,Turismes,Subjecte Físic,6373
+2020,8,Nou Barris,45,Porta,Turismes,Altres,2
+2020,8,Nou Barris,45,Porta,Motos,Subjecte Jurí­dic,60
+2020,8,Nou Barris,45,Porta,Motos,Subjecte Físic,2144
+2020,8,Nou Barris,45,Porta,Ciclomotors,Subjecte Jurí­dic,6
+2020,8,Nou Barris,45,Porta,Ciclomotors,Subjecte Físic,514
+2020,8,Nou Barris,45,Porta,Furgonetes,Subjecte Jurí­dic,130
+2020,8,Nou Barris,45,Porta,Furgonetes,Subjecte Físic,374
+2020,8,Nou Barris,45,Porta,Camions,Subjecte Jurí­dic,45
+2020,8,Nou Barris,45,Porta,Camions,Subjecte Físic,92
+2020,8,Nou Barris,45,Porta,Altres vehicles,Subjecte Jurí­dic,10
+2020,8,Nou Barris,45,Porta,Altres vehicles,Subjecte Físic,116
+2020,8,Nou Barris,46,el Turó de la Peira,Turismes,Subjecte Jurí­dic,71
+2020,8,Nou Barris,46,el Turó de la Peira,Turismes,Subjecte Físic,3296
+2020,8,Nou Barris,46,el Turó de la Peira,Motos,Subjecte Jurí­dic,35
+2020,8,Nou Barris,46,el Turó de la Peira,Motos,Subjecte Físic,1249
+2020,8,Nou Barris,46,el Turó de la Peira,Ciclomotors,Subjecte Jurí­dic,7
+2020,8,Nou Barris,46,el Turó de la Peira,Ciclomotors,Subjecte Físic,352
+2020,8,Nou Barris,46,el Turó de la Peira,Furgonetes,Subjecte Jurí­dic,59
+2020,8,Nou Barris,46,el Turó de la Peira,Furgonetes,Subjecte Físic,274
+2020,8,Nou Barris,46,el Turó de la Peira,Camions,Subjecte Jurí­dic,18
+2020,8,Nou Barris,46,el Turó de la Peira,Camions,Subjecte Físic,45
+2020,8,Nou Barris,46,el Turó de la Peira,Altres vehicles,Subjecte Jurí­dic,2
+2020,8,Nou Barris,46,el Turó de la Peira,Altres vehicles,Subjecte Físic,39
+2020,8,Nou Barris,47,Can Peguera,Turismes,Subjecte Jurí­dic,4
+2020,8,Nou Barris,47,Can Peguera,Turismes,Subjecte Físic,582
+2020,8,Nou Barris,47,Can Peguera,Motos,Subjecte Físic,202
+2020,8,Nou Barris,47,Can Peguera,Ciclomotors,Subjecte Físic,103
+2020,8,Nou Barris,47,Can Peguera,Furgonetes,Subjecte Jurí­dic,10
+2020,8,Nou Barris,47,Can Peguera,Furgonetes,Subjecte Físic,45
+2020,8,Nou Barris,47,Can Peguera,Camions,Subjecte Físic,12
+2020,8,Nou Barris,47,Can Peguera,Altres vehicles,Subjecte Jurí­dic,1
+2020,8,Nou Barris,47,Can Peguera,Altres vehicles,Subjecte Físic,12
+2020,8,Nou Barris,48,la Guineueta,Turismes,Subjecte Jurí­dic,117
+2020,8,Nou Barris,48,la Guineueta,Turismes,Subjecte Físic,4627
+2020,8,Nou Barris,48,la Guineueta,Motos,Subjecte Jurí­dic,21
+2020,8,Nou Barris,48,la Guineueta,Motos,Subjecte Físic,1447
+2020,8,Nou Barris,48,la Guineueta,Ciclomotors,Subjecte Jurí­dic,11
+2020,8,Nou Barris,48,la Guineueta,Ciclomotors,Subjecte Físic,277
+2020,8,Nou Barris,48,la Guineueta,Furgonetes,Subjecte Jurí­dic,74
+2020,8,Nou Barris,48,la Guineueta,Furgonetes,Subjecte Físic,186
+2020,8,Nou Barris,48,la Guineueta,Camions,Subjecte Jurí­dic,16
+2020,8,Nou Barris,48,la Guineueta,Camions,Subjecte Físic,61
+2020,8,Nou Barris,48,la Guineueta,Altres vehicles,Subjecte Físic,75
+2020,8,Nou Barris,49,Canyelles,Turismes,Subjecte Jurí­dic,24
+2020,8,Nou Barris,49,Canyelles,Turismes,Subjecte Físic,2560
+2020,8,Nou Barris,49,Canyelles,Motos,Subjecte Jurí­dic,10
+2020,8,Nou Barris,49,Canyelles,Motos,Subjecte Físic,706
+2020,8,Nou Barris,49,Canyelles,Ciclomotors,Subjecte Físic,192
+2020,8,Nou Barris,49,Canyelles,Furgonetes,Subjecte Jurí­dic,23
+2020,8,Nou Barris,49,Canyelles,Furgonetes,Subjecte Físic,131
+2020,8,Nou Barris,49,Canyelles,Furgonetes,Altres,1
+2020,8,Nou Barris,49,Canyelles,Camions,Subjecte Jurí­dic,2
+2020,8,Nou Barris,49,Canyelles,Camions,Subjecte Físic,39
+2020,8,Nou Barris,49,Canyelles,Altres vehicles,Subjecte Físic,49
+2020,8,Nou Barris,50,les Roquetes,Turismes,Subjecte Jurí­dic,85
+2020,8,Nou Barris,50,les Roquetes,Turismes,Subjecte Físic,4385
+2020,8,Nou Barris,50,les Roquetes,Turismes,Altres,1
+2020,8,Nou Barris,50,les Roquetes,Motos,Subjecte Jurí­dic,10
+2020,8,Nou Barris,50,les Roquetes,Motos,Subjecte Físic,1337
+2020,8,Nou Barris,50,les Roquetes,Ciclomotors,Subjecte Físic,436
+2020,8,Nou Barris,50,les Roquetes,Furgonetes,Subjecte Jurí­dic,82
+2020,8,Nou Barris,50,les Roquetes,Furgonetes,Subjecte Físic,364
+2020,8,Nou Barris,50,les Roquetes,Camions,Subjecte Jurí­dic,51
+2020,8,Nou Barris,50,les Roquetes,Camions,Subjecte Físic,106
+2020,8,Nou Barris,50,les Roquetes,Altres vehicles,Subjecte Jurí­dic,30
+2020,8,Nou Barris,50,les Roquetes,Altres vehicles,Subjecte Físic,77
+2020,8,Nou Barris,51,Verdun,Turismes,Subjecte Jurí­dic,60
+2020,8,Nou Barris,51,Verdun,Turismes,Subjecte Físic,3111
+2020,8,Nou Barris,51,Verdun,Motos,Subjecte Jurí­dic,18
+2020,8,Nou Barris,51,Verdun,Motos,Subjecte Físic,962
+2020,8,Nou Barris,51,Verdun,Ciclomotors,Subjecte Jurí­dic,2
+2020,8,Nou Barris,51,Verdun,Ciclomotors,Subjecte Físic,277
+2020,8,Nou Barris,51,Verdun,Furgonetes,Subjecte Jurí­dic,87
+2020,8,Nou Barris,51,Verdun,Furgonetes,Subjecte Físic,215
+2020,8,Nou Barris,51,Verdun,Camions,Subjecte Jurí­dic,22
+2020,8,Nou Barris,51,Verdun,Camions,Subjecte Físic,61
+2020,8,Nou Barris,51,Verdun,Altres vehicles,Subjecte Jurí­dic,3
+2020,8,Nou Barris,51,Verdun,Altres vehicles,Subjecte Físic,50
+2020,8,Nou Barris,52,la Prosperitat,Turismes,Subjecte Jurí­dic,180
+2020,8,Nou Barris,52,la Prosperitat,Turismes,Subjecte Físic,7257
+2020,8,Nou Barris,52,la Prosperitat,Motos,Subjecte Jurí­dic,57
+2020,8,Nou Barris,52,la Prosperitat,Motos,Subjecte Físic,2221
+2020,8,Nou Barris,52,la Prosperitat,Ciclomotors,Subjecte Jurí­dic,8
+2020,8,Nou Barris,52,la Prosperitat,Ciclomotors,Subjecte Físic,535
+2020,8,Nou Barris,52,la Prosperitat,Furgonetes,Subjecte Jurí­dic,168
+2020,8,Nou Barris,52,la Prosperitat,Furgonetes,Subjecte Físic,453
+2020,8,Nou Barris,52,la Prosperitat,Camions,Subjecte Jurí­dic,77
+2020,8,Nou Barris,52,la Prosperitat,Camions,Subjecte Físic,120
+2020,8,Nou Barris,52,la Prosperitat,Altres vehicles,Subjecte Jurí­dic,59
+2020,8,Nou Barris,52,la Prosperitat,Altres vehicles,Subjecte Físic,149
+2020,8,Nou Barris,53,la Trinitat Nova,Turismes,Subjecte Jurí­dic,18
+2020,8,Nou Barris,53,la Trinitat Nova,Turismes,Subjecte Físic,1811
+2020,8,Nou Barris,53,la Trinitat Nova,Motos,Subjecte Físic,527
+2020,8,Nou Barris,53,la Trinitat Nova,Ciclomotors,Subjecte Jurí­dic,3
+2020,8,Nou Barris,53,la Trinitat Nova,Ciclomotors,Subjecte Físic,208
+2020,8,Nou Barris,53,la Trinitat Nova,Furgonetes,Subjecte Jurí­dic,25
+2020,8,Nou Barris,53,la Trinitat Nova,Furgonetes,Subjecte Físic,162
+2020,8,Nou Barris,53,la Trinitat Nova,Camions,Subjecte Jurí­dic,12
+2020,8,Nou Barris,53,la Trinitat Nova,Camions,Subjecte Físic,36
+2020,8,Nou Barris,53,la Trinitat Nova,Altres vehicles,Subjecte Físic,32
+2020,8,Nou Barris,54,Torre Baró,Turismes,Subjecte Jurí­dic,11
+2020,8,Nou Barris,54,Torre Baró,Turismes,Subjecte Físic,879
+2020,8,Nou Barris,54,Torre Baró,Motos,Subjecte Jurí­dic,3
+2020,8,Nou Barris,54,Torre Baró,Motos,Subjecte Físic,243
+2020,8,Nou Barris,54,Torre Baró,Ciclomotors,Subjecte Jurí­dic,1
+2020,8,Nou Barris,54,Torre Baró,Ciclomotors,Subjecte Físic,134
+2020,8,Nou Barris,54,Torre Baró,Furgonetes,Subjecte Jurí­dic,7
+2020,8,Nou Barris,54,Torre Baró,Furgonetes,Subjecte Físic,121
+2020,8,Nou Barris,54,Torre Baró,Camions,Subjecte Jurí­dic,6
+2020,8,Nou Barris,54,Torre Baró,Camions,Subjecte Físic,52
+2020,8,Nou Barris,54,Torre Baró,Altres vehicles,Subjecte Jurí­dic,3
+2020,8,Nou Barris,54,Torre Baró,Altres vehicles,Subjecte Físic,29
+2020,8,Nou Barris,55,Ciutat Meridiana,Turismes,Subjecte Jurí­dic,27
+2020,8,Nou Barris,55,Ciutat Meridiana,Turismes,Subjecte Físic,2643
+2020,8,Nou Barris,55,Ciutat Meridiana,Motos,Subjecte Jurí­dic,6
+2020,8,Nou Barris,55,Ciutat Meridiana,Motos,Subjecte Físic,495
+2020,8,Nou Barris,55,Ciutat Meridiana,Ciclomotors,Subjecte Físic,218
+2020,8,Nou Barris,55,Ciutat Meridiana,Furgonetes,Subjecte Jurí­dic,25
+2020,8,Nou Barris,55,Ciutat Meridiana,Furgonetes,Subjecte Físic,228
+2020,8,Nou Barris,55,Ciutat Meridiana,Camions,Subjecte Jurí­dic,14
+2020,8,Nou Barris,55,Ciutat Meridiana,Camions,Subjecte Físic,79
+2020,8,Nou Barris,55,Ciutat Meridiana,Altres vehicles,Subjecte Jurí­dic,5
+2020,8,Nou Barris,55,Ciutat Meridiana,Altres vehicles,Subjecte Físic,49
+2020,8,Nou Barris,56,Vallbona,Turismes,Subjecte Jurí­dic,6
+2020,8,Nou Barris,56,Vallbona,Turismes,Subjecte Físic,446
+2020,8,Nou Barris,56,Vallbona,Motos,Subjecte Jurí­dic,1
+2020,8,Nou Barris,56,Vallbona,Motos,Subjecte Físic,123
+2020,8,Nou Barris,56,Vallbona,Ciclomotors,Subjecte Físic,62
+2020,8,Nou Barris,56,Vallbona,Furgonetes,Subjecte Jurí­dic,2
+2020,8,Nou Barris,56,Vallbona,Furgonetes,Subjecte Físic,44
+2020,8,Nou Barris,56,Vallbona,Camions,Subjecte Jurí­dic,5
+2020,8,Nou Barris,56,Vallbona,Camions,Subjecte Físic,26
+2020,8,Nou Barris,56,Vallbona,Altres vehicles,Subjecte Jurí­dic,3
+2020,8,Nou Barris,56,Vallbona,Altres vehicles,Subjecte Físic,22
+2020,9,Sant Andreu,57,la Trinitat Vella,Turismes,Subjecte Jurí­dic,53
+2020,9,Sant Andreu,57,la Trinitat Vella,Turismes,Subjecte Físic,2671
+2020,9,Sant Andreu,57,la Trinitat Vella,Motos,Subjecte Jurí­dic,15
+2020,9,Sant Andreu,57,la Trinitat Vella,Motos,Subjecte Físic,695
+2020,9,Sant Andreu,57,la Trinitat Vella,Ciclomotors,Subjecte Jurí­dic,4
+2020,9,Sant Andreu,57,la Trinitat Vella,Ciclomotors,Subjecte Físic,284
+2020,9,Sant Andreu,57,la Trinitat Vella,Furgonetes,Subjecte Jurí­dic,58
+2020,9,Sant Andreu,57,la Trinitat Vella,Furgonetes,Subjecte Físic,227
+2020,9,Sant Andreu,57,la Trinitat Vella,Camions,Subjecte Jurí­dic,31
+2020,9,Sant Andreu,57,la Trinitat Vella,Camions,Subjecte Físic,61
+2020,9,Sant Andreu,57,la Trinitat Vella,Altres vehicles,Subjecte Jurí­dic,10
+2020,9,Sant Andreu,57,la Trinitat Vella,Altres vehicles,Subjecte Físic,31
+2020,9,Sant Andreu,58,Baró de Viver,Turismes,Subjecte Jurí­dic,7
+2020,9,Sant Andreu,58,Baró de Viver,Turismes,Subjecte Físic,720
+2020,9,Sant Andreu,58,Baró de Viver,Motos,Subjecte Jurí­dic,5
+2020,9,Sant Andreu,58,Baró de Viver,Motos,Subjecte Físic,217
+2020,9,Sant Andreu,58,Baró de Viver,Ciclomotors,Subjecte Jurí­dic,1
+2020,9,Sant Andreu,58,Baró de Viver,Ciclomotors,Subjecte Físic,66
+2020,9,Sant Andreu,58,Baró de Viver,Furgonetes,Subjecte Jurí­dic,5
+2020,9,Sant Andreu,58,Baró de Viver,Furgonetes,Subjecte Físic,67
+2020,9,Sant Andreu,58,Baró de Viver,Camions,Subjecte Jurí­dic,6
+2020,9,Sant Andreu,58,Baró de Viver,Camions,Subjecte Físic,15
+2020,9,Sant Andreu,58,Baró de Viver,Altres vehicles,Subjecte Físic,15
+2020,9,Sant Andreu,59,el Bon Pastor,Turismes,Subjecte Jurí­dic,1247
+2020,9,Sant Andreu,59,el Bon Pastor,Turismes,Subjecte Físic,3560
+2020,9,Sant Andreu,59,el Bon Pastor,Turismes,Altres,1
+2020,9,Sant Andreu,59,el Bon Pastor,Motos,Subjecte Jurí­dic,167
+2020,9,Sant Andreu,59,el Bon Pastor,Motos,Subjecte Físic,958
+2020,9,Sant Andreu,59,el Bon Pastor,Motos,Altres,1
+2020,9,Sant Andreu,59,el Bon Pastor,Ciclomotors,Subjecte Jurí­dic,21
+2020,9,Sant Andreu,59,el Bon Pastor,Ciclomotors,Subjecte Físic,243
+2020,9,Sant Andreu,59,el Bon Pastor,Furgonetes,Subjecte Jurí­dic,563
+2020,9,Sant Andreu,59,el Bon Pastor,Furgonetes,Subjecte Físic,259
+2020,9,Sant Andreu,59,el Bon Pastor,Furgonetes,Altres,1
+2020,9,Sant Andreu,59,el Bon Pastor,Camions,Subjecte Jurí­dic,539
+2020,9,Sant Andreu,59,el Bon Pastor,Camions,Subjecte Físic,71
+2020,9,Sant Andreu,59,el Bon Pastor,Altres vehicles,Subjecte Jurí­dic,249
+2020,9,Sant Andreu,59,el Bon Pastor,Altres vehicles,Subjecte Físic,59
+2020,9,Sant Andreu,59,el Bon Pastor,Altres vehicles,Altres,1
+2020,9,Sant Andreu,60,Sant Andreu,Turismes,Subjecte Jurí­dic,555
+2020,9,Sant Andreu,60,Sant Andreu,Turismes,Subjecte Físic,17451
+2020,9,Sant Andreu,60,Sant Andreu,Turismes,Altres,2
+2020,9,Sant Andreu,60,Sant Andreu,Motos,Subjecte Jurí­dic,190
+2020,9,Sant Andreu,60,Sant Andreu,Motos,Subjecte Físic,5983
+2020,9,Sant Andreu,60,Sant Andreu,Ciclomotors,Subjecte Jurí­dic,34
+2020,9,Sant Andreu,60,Sant Andreu,Ciclomotors,Subjecte Físic,1060
+2020,9,Sant Andreu,60,Sant Andreu,Furgonetes,Subjecte Jurí­dic,402
+2020,9,Sant Andreu,60,Sant Andreu,Furgonetes,Subjecte Físic,791
+2020,9,Sant Andreu,60,Sant Andreu,Camions,Subjecte Jurí­dic,92
+2020,9,Sant Andreu,60,Sant Andreu,Camions,Subjecte Físic,176
+2020,9,Sant Andreu,60,Sant Andreu,Camions,Altres,1
+2020,9,Sant Andreu,60,Sant Andreu,Altres vehicles,Subjecte Jurí­dic,31
+2020,9,Sant Andreu,60,Sant Andreu,Altres vehicles,Subjecte Físic,339
+2020,9,Sant Andreu,61,la Sagrera,Turismes,Subjecte Jurí­dic,306
+2020,9,Sant Andreu,61,la Sagrera,Turismes,Subjecte Físic,8173
+2020,9,Sant Andreu,61,la Sagrera,Turismes,Altres,2
+2020,9,Sant Andreu,61,la Sagrera,Motos,Subjecte Jurí­dic,81
+2020,9,Sant Andreu,61,la Sagrera,Motos,Subjecte Físic,2835
+2020,9,Sant Andreu,61,la Sagrera,Motos,Altres,1
+2020,9,Sant Andreu,61,la Sagrera,Ciclomotors,Subjecte Jurí­dic,8
+2020,9,Sant Andreu,61,la Sagrera,Ciclomotors,Subjecte Físic,597
+2020,9,Sant Andreu,61,la Sagrera,Furgonetes,Subjecte Jurí­dic,139
+2020,9,Sant Andreu,61,la Sagrera,Furgonetes,Subjecte Físic,419
+2020,9,Sant Andreu,61,la Sagrera,Camions,Subjecte Jurí­dic,82
+2020,9,Sant Andreu,61,la Sagrera,Camions,Subjecte Físic,103
+2020,9,Sant Andreu,61,la Sagrera,Altres vehicles,Subjecte Jurí­dic,36
+2020,9,Sant Andreu,61,la Sagrera,Altres vehicles,Subjecte Físic,157
+2020,9,Sant Andreu,62,el Congrés i els Indians,Turismes,Subjecte Jurí­dic,136
+2020,9,Sant Andreu,62,el Congrés i els Indians,Turismes,Subjecte Físic,3636
+2020,9,Sant Andreu,62,el Congrés i els Indians,Motos,Subjecte Jurí­dic,51
+2020,9,Sant Andreu,62,el Congrés i els Indians,Motos,Subjecte Físic,1412
+2020,9,Sant Andreu,62,el Congrés i els Indians,Ciclomotors,Subjecte Jurí­dic,6
+2020,9,Sant Andreu,62,el Congrés i els Indians,Ciclomotors,Subjecte Físic,293
+2020,9,Sant Andreu,62,el Congrés i els Indians,Furgonetes,Subjecte Jurí­dic,110
+2020,9,Sant Andreu,62,el Congrés i els Indians,Furgonetes,Subjecte Físic,189
+2020,9,Sant Andreu,62,el Congrés i els Indians,Camions,Subjecte Jurí­dic,24
+2020,9,Sant Andreu,62,el Congrés i els Indians,Camions,Subjecte Físic,42
+2020,9,Sant Andreu,62,el Congrés i els Indians,Altres vehicles,Subjecte Jurí­dic,20
+2020,9,Sant Andreu,62,el Congrés i els Indians,Altres vehicles,Subjecte Físic,64
+2020,9,Sant Andreu,63,Navas,Turismes,Subjecte Jurí­dic,233
+2020,9,Sant Andreu,63,Navas,Turismes,Subjecte Físic,6167
+2020,9,Sant Andreu,63,Navas,Turismes,Altres,2
+2020,9,Sant Andreu,63,Navas,Motos,Subjecte Jurí­dic,79
+2020,9,Sant Andreu,63,Navas,Motos,Subjecte Físic,2401
+2020,9,Sant Andreu,63,Navas,Motos,Altres,2
+2020,9,Sant Andreu,63,Navas,Ciclomotors,Subjecte Jurí­dic,7
+2020,9,Sant Andreu,63,Navas,Ciclomotors,Subjecte Físic,469
+2020,9,Sant Andreu,63,Navas,Furgonetes,Subjecte Jurí­dic,130
+2020,9,Sant Andreu,63,Navas,Furgonetes,Subjecte Físic,323
+2020,9,Sant Andreu,63,Navas,Furgonetes,Altres,1
+2020,9,Sant Andreu,63,Navas,Camions,Subjecte Jurí­dic,48
+2020,9,Sant Andreu,63,Navas,Camions,Subjecte Físic,56
+2020,9,Sant Andreu,63,Navas,Altres vehicles,Subjecte Jurí­dic,30
+2020,9,Sant Andreu,63,Navas,Altres vehicles,Subjecte Físic,114
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Turismes,Subjecte Jurí­dic,398
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Turismes,Subjecte Físic,9912
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Turismes,Altres,4
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Motos,Subjecte Jurí­dic,170
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Motos,Subjecte Físic,4318
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Ciclomotors,Subjecte Jurí­dic,16
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Ciclomotors,Subjecte Físic,880
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Furgonetes,Subjecte Jurí­dic,239
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Furgonetes,Subjecte Físic,589
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Furgonetes,Altres,1
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Camions,Subjecte Jurí­dic,140
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Camions,Subjecte Físic,111
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Camions,Altres,1
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Altres vehicles,Subjecte Jurí­dic,81
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Altres vehicles,Subjecte Físic,177
+2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Altres vehicles,Altres,1
+2020,10,Sant Martí,65,el Clot,Turismes,Subjecte Jurí­dic,248
+2020,10,Sant Martí,65,el Clot,Turismes,Subjecte Físic,7483
+2020,10,Sant Martí,65,el Clot,Motos,Subjecte Jurí­dic,89
+2020,10,Sant Martí,65,el Clot,Motos,Subjecte Físic,2856
+2020,10,Sant Martí,65,el Clot,Ciclomotors,Subjecte Jurí­dic,12
+2020,10,Sant Martí,65,el Clot,Ciclomotors,Subjecte Físic,628
+2020,10,Sant Martí,65,el Clot,Furgonetes,Subjecte Jurí­dic,140
+2020,10,Sant Martí,65,el Clot,Furgonetes,Subjecte Físic,421
+2020,10,Sant Martí,65,el Clot,Camions,Subjecte Jurí­dic,46
+2020,10,Sant Martí,65,el Clot,Camions,Subjecte Físic,116
+2020,10,Sant Martí,65,el Clot,Altres vehicles,Subjecte Jurí­dic,27
+2020,10,Sant Martí,65,el Clot,Altres vehicles,Subjecte Físic,135
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Turismes,Subjecte Jurí­dic,685
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Turismes,Subjecte Físic,4001
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Turismes,Altres,1
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Motos,Subjecte Jurí­dic,193
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Motos,Subjecte Físic,1705
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Ciclomotors,Subjecte Jurí­dic,1601
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Ciclomotors,Subjecte Físic,350
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Furgonetes,Subjecte Jurí­dic,389
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Furgonetes,Subjecte Físic,248
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Furgonetes,Altres,1
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Camions,Subjecte Jurí­dic,285
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Camions,Subjecte Físic,47
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Altres vehicles,Subjecte Jurí­dic,169
+2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Altres vehicles,Subjecte Físic,77
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Turismes,Subjecte Jurí­dic,410
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Turismes,Subjecte Físic,3118
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Motos,Subjecte Jurí­dic,108
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Motos,Subjecte Físic,1397
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Motos,Altres,1
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Ciclomotors,Subjecte Jurí­dic,20
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Ciclomotors,Subjecte Físic,182
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Furgonetes,Subjecte Jurí­dic,130
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Furgonetes,Subjecte Físic,86
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Furgonetes,Altres,3
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Camions,Subjecte Jurí­dic,57
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Camions,Subjecte Físic,12
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Altres vehicles,Subjecte Jurí­dic,38
+2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Altres vehicles,Subjecte Físic,47
+2020,10,Sant Martí,68,el Poblenou,Turismes,Subjecte Jurí­dic,656
+2020,10,Sant Martí,68,el Poblenou,Turismes,Subjecte Físic,8976
+2020,10,Sant Martí,68,el Poblenou,Turismes,Altres,2
+2020,10,Sant Martí,68,el Poblenou,Motos,Subjecte Jurí­dic,195
+2020,10,Sant Martí,68,el Poblenou,Motos,Subjecte Físic,3579
+2020,10,Sant Martí,68,el Poblenou,Motos,Altres,1
+2020,10,Sant Martí,68,el Poblenou,Ciclomotors,Subjecte Jurí­dic,1350
+2020,10,Sant Martí,68,el Poblenou,Ciclomotors,Subjecte Físic,691
+2020,10,Sant Martí,68,el Poblenou,Furgonetes,Subjecte Jurí­dic,287
+2020,10,Sant Martí,68,el Poblenou,Furgonetes,Subjecte Físic,515
+2020,10,Sant Martí,68,el Poblenou,Furgonetes,Altres,2
+2020,10,Sant Martí,68,el Poblenou,Camions,Subjecte Jurí­dic,153
+2020,10,Sant Martí,68,el Poblenou,Camions,Subjecte Físic,104
+2020,10,Sant Martí,68,el Poblenou,Altres vehicles,Subjecte Jurí­dic,72
+2020,10,Sant Martí,68,el Poblenou,Altres vehicles,Subjecte Físic,189
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Turismes,Subjecte Jurí­dic,241
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Turismes,Subjecte Físic,3824
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Turismes,Altres,2
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Motos,Subjecte Jurí­dic,55
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Motos,Subjecte Físic,1452
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Ciclomotors,Subjecte Jurí­dic,4
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Ciclomotors,Subjecte Físic,142
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Furgonetes,Subjecte Jurí­dic,83
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Furgonetes,Subjecte Físic,141
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Camions,Subjecte Jurí­dic,40
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Camions,Subjecte Físic,43
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Altres vehicles,Subjecte Jurí­dic,17
+2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Altres vehicles,Subjecte Físic,79
+2020,10,Sant Martí,70,el Besòs i el Maresme,Turismes,Subjecte Jurí­dic,172
+2020,10,Sant Martí,70,el Besòs i el Maresme,Turismes,Subjecte Físic,5663
+2020,10,Sant Martí,70,el Besòs i el Maresme,Turismes,Altres,2
+2020,10,Sant Martí,70,el Besòs i el Maresme,Motos,Subjecte Jurí­dic,35
+2020,10,Sant Martí,70,el Besòs i el Maresme,Motos,Subjecte Físic,1443
+2020,10,Sant Martí,70,el Besòs i el Maresme,Ciclomotors,Subjecte Jurí­dic,5
+2020,10,Sant Martí,70,el Besòs i el Maresme,Ciclomotors,Subjecte Físic,529
+2020,10,Sant Martí,70,el Besòs i el Maresme,Furgonetes,Subjecte Jurí­dic,126
+2020,10,Sant Martí,70,el Besòs i el Maresme,Furgonetes,Subjecte Físic,423
+2020,10,Sant Martí,70,el Besòs i el Maresme,Furgonetes,Altres,1
+2020,10,Sant Martí,70,el Besòs i el Maresme,Camions,Subjecte Jurí­dic,54
+2020,10,Sant Martí,70,el Besòs i el Maresme,Camions,Subjecte Físic,139
+2020,10,Sant Martí,70,el Besòs i el Maresme,Altres vehicles,Subjecte Jurí­dic,22
+2020,10,Sant Martí,70,el Besòs i el Maresme,Altres vehicles,Subjecte Físic,92
+2020,10,Sant Martí,71,Provençals del Poblenou,Turismes,Subjecte Jurí­dic,461
+2020,10,Sant Martí,71,Provençals del Poblenou,Turismes,Subjecte Físic,6204
+2020,10,Sant Martí,71,Provençals del Poblenou,Turismes,Altres,1
+2020,10,Sant Martí,71,Provençals del Poblenou,Motos,Subjecte Jurí­dic,115
+2020,10,Sant Martí,71,Provençals del Poblenou,Motos,Subjecte Físic,2140
+2020,10,Sant Martí,71,Provençals del Poblenou,Ciclomotors,Subjecte Jurí­dic,15
+2020,10,Sant Martí,71,Provençals del Poblenou,Ciclomotors,Subjecte Físic,447
+2020,10,Sant Martí,71,Provençals del Poblenou,Furgonetes,Subjecte Jurí­dic,425
+2020,10,Sant Martí,71,Provençals del Poblenou,Furgonetes,Subjecte Físic,364
+2020,10,Sant Martí,71,Provençals del Poblenou,Camions,Subjecte Jurí­dic,143
+2020,10,Sant Martí,71,Provençals del Poblenou,Camions,Subjecte Físic,104
+2020,10,Sant Martí,71,Provençals del Poblenou,Altres vehicles,Subjecte Jurí­dic,332
+2020,10,Sant Martí,71,Provençals del Poblenou,Altres vehicles,Subjecte Físic,104
+2020,10,Sant Martí,72,Sant Martí de Provençals,Turismes,Subjecte Jurí­dic,263
+2020,10,Sant Martí,72,Sant Martí de Provençals,Turismes,Subjecte Físic,7421
+2020,10,Sant Martí,72,Sant Martí de Provençals,Turismes,Altres,1
+2020,10,Sant Martí,72,Sant Martí de Provençals,Motos,Subjecte Jurí­dic,79
+2020,10,Sant Martí,72,Sant Martí de Provençals,Motos,Subjecte Físic,2555
+2020,10,Sant Martí,72,Sant Martí de Provençals,Motos,Altres,1
+2020,10,Sant Martí,72,Sant Martí de Provençals,Ciclomotors,Subjecte Jurí­dic,8
+2020,10,Sant Martí,72,Sant Martí de Provençals,Ciclomotors,Subjecte Físic,539
+2020,10,Sant Martí,72,Sant Martí de Provençals,Furgonetes,Subjecte Jurí­dic,144
+2020,10,Sant Martí,72,Sant Martí de Provençals,Furgonetes,Subjecte Físic,398
+2020,10,Sant Martí,72,Sant Martí de Provençals,Camions,Subjecte Jurí­dic,45
+2020,10,Sant Martí,72,Sant Martí de Provençals,Camions,Subjecte Físic,99
+2020,10,Sant Martí,72,Sant Martí de Provençals,Altres vehicles,Subjecte Jurí­dic,42
+2020,10,Sant Martí,72,Sant Martí de Provençals,Altres vehicles,Subjecte Físic,155
+2020,10,Sant Martí,73,la Verneda i la Pau,Turismes,Subjecte Jurí­dic,242
+2020,10,Sant Martí,73,la Verneda i la Pau,Turismes,Subjecte Físic,8600
+2020,10,Sant Martí,73,la Verneda i la Pau,Turismes,Altres,1
+2020,10,Sant Martí,73,la Verneda i la Pau,Motos,Subjecte Jurí­dic,57
+2020,10,Sant Martí,73,la Verneda i la Pau,Motos,Subjecte Físic,2372
+2020,10,Sant Martí,73,la Verneda i la Pau,Ciclomotors,Subjecte Jurí­dic,15
+2020,10,Sant Martí,73,la Verneda i la Pau,Ciclomotors,Subjecte Físic,672
+2020,10,Sant Martí,73,la Verneda i la Pau,Furgonetes,Subjecte Jurí­dic,279
+2020,10,Sant Martí,73,la Verneda i la Pau,Furgonetes,Subjecte Físic,410
+2020,10,Sant Martí,73,la Verneda i la Pau,Camions,Subjecte Jurí­dic,107
+2020,10,Sant Martí,73,la Verneda i la Pau,Camions,Subjecte Físic,126
+2020,10,Sant Martí,73,la Verneda i la Pau,Altres vehicles,Subjecte Jurí­dic,37
+2020,10,Sant Martí,73,la Verneda i la Pau,Altres vehicles,Subjecte Físic,126
+2020,NC,No consta,NC,No consta,Turismes,Subjecte Jurí­dic,26
+2020,NC,No consta,NC,No consta,Turismes,Subjecte Físic,170
+2020,NC,No consta,NC,No consta,Turismes,Altres,1
+2020,NC,No consta,NC,No consta,Motos,Subjecte Jurí­dic,7
+2020,NC,No consta,NC,No consta,Motos,Subjecte Físic,98
+2020,NC,No consta,NC,No consta,Ciclomotors,Subjecte Jurí­dic,39
+2020,NC,No consta,NC,No consta,Ciclomotors,Subjecte Físic,31
+2020,NC,No consta,NC,No consta,Furgonetes,Subjecte Jurí­dic,10
+2020,NC,No consta,NC,No consta,Furgonetes,Subjecte Físic,17
+2020,NC,No consta,NC,No consta,Camions,Subjecte Jurí­dic,7
+2020,NC,No consta,NC,No consta,Camions,Subjecte Físic,4
+2020,NC,No consta,NC,No consta,Altres vehicles,Subjecte Jurí­dic,3
+2020,NC,No consta,NC,No consta,Altres vehicles,Subjecte Físic,2
